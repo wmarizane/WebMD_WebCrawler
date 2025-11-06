@@ -1,0 +1,4607 @@
+{
+  "conditions": [
+    {
+      "name": "A1AT Deficiency",
+      "url": "https://www.webmd.com/lung/copd/alpha-1-antitrypsin-deficiency-rare"
+    },
+    {
+      "name": "Abdominal Migraine",
+      "url": "https://www.webmd.com/migraines-headaches/cyclic-vomiting-migraines"
+    },
+    {
+      "name": "Abercrombie Syndrome",
+      "url": "https://www.webmd.com/cancer/lymphoma/amyloidosis-symptoms-causes-treatments"
+    },
+    {
+      "name": "Abnormal Pap Test",
+      "url": "https://www.webmd.com/women/guide/pap-smear"
+    },
+    {
+      "name": "Abortion",
+      "url": "https://www.webmd.com/women/abortion-procedures"
+    },
+    {
+      "name": "Abruptio Placenta",
+      "url": "https://www.webmd.com/baby/what-is-placental-abruption"
+    },
+    {
+      "name": "Abscessed Tooth",
+      "url": "https://www.webmd.com/oral-health/guide/abscessed-tooth"
+    },
+    {
+      "name": "Absence of Menstruation, Primary",
+      "url": "https://www.webmd.com/infertility-and-reproduction/guide/absence-periods"
+    },
+    {
+      "name": "Absence Seizure",
+      "url": "https://www.webmd.com/epilepsy/guide/understanding-absence-seizure-basics"
+    },
+    {
+      "name": "Abuse, Child",
+      "url": "https://www.webmd.com/children/child-abuse-signs"
+    },
+    {
+      "name": "Acantholysis Bullosa",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/epidermolysis-bullosa-what-is"
+    },
+    {
+      "name": "Acanthosis Nigricans",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/acanthosis-nigricans-overview"
+    },
+    {
+      "name": "ACC -- Adenoid Cystic Carcinoma",
+      "url": "https://www.webmd.com/cancer/adenoid-cystic-carcinoma-facts"
+    },
+    {
+      "name": "ACC -- Agenesis of Corpus Callosum",
+      "url": "https://www.webmd.com/epilepsy/guide/corpus-callosotomy"
+    },
+    {
+      "name": "ACC -- Aplasia Cutis Congenita",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/hair-loss/congenital-hypotrichosis"
+    },
+    {
+      "name": "ACH",
+      "url": "https://www.webmd.com/children/dwarfism-causes-treatments"
+    },
+    {
+      "name": "Achalasia",
+      "url": "https://www.webmd.com/digestive-disorders/achalasia-what-to-know"
+    },
+    {
+      "name": "Achilles Tendon Problems",
+      "url": "https://www.webmd.com/fitness-exercise/guide/achilles-tendon-injury"
+    },
+    {
+      "name": "Acne",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/acne/default.htm"
+    },
+    {
+      "name": "Acquired Lipodystrophy",
+      "url": "https://www.webmd.com/diabetes/acquired-lipodystrophy"
+    },
+    {
+      "name": "Acromegaly",
+      "url": "https://www.webmd.com/a-to-z-guides/acromegaly-causes-symptoms-treatment"
+    },
+    {
+      "name": "ADD/ADHD",
+      "url": "https://www.webmd.com/add-adhd/default.htm"
+    },
+    {
+      "name": "Addiction Recovery",
+      "url": "https://www.webmd.com/connect-to-care/addiction-treatment-recovery/default.htm"
+    },
+    {
+      "name": "Adenosine Deaminase Severe Combined Immunodeficiency (ADA-SCID)",
+      "url": "https://www.webmd.com/a-to-z-guides/adenosine-deaminase-severe-combined-immunodeficiency"
+    },
+    {
+      "name": "ADHD in Children",
+      "url": "https://www.webmd.com/add-adhd/childhood-adhd/default.htm"
+    },
+    {
+      "name": "Adult Vaccines",
+      "url": "https://www.webmd.com/vaccines/default.htm"
+    },
+    {
+      "name": "Aganglionic Megacolon",
+      "url": "https://www.webmd.com/children/what-is-hirschsprungs-disease"
+    },
+    {
+      "name": "Age-Related Macular Degeneration",
+      "url": "https://www.webmd.com/eye-health/macular-degeneration/age-related-macular-degeneration-overview"
+    },
+    {
+      "name": "Aging",
+      "url": "https://www.webmd.com/healthy-aging/default.htm"
+    },
+    {
+      "name": "Aging, Sexuality and Physical Changes",
+      "url": "https://www.webmd.com/healthy-aging/guide/normal-aging"
+    },
+    {
+      "name": "Agnogenic Myeloid Metaplasia (AMM)",
+      "url": "https://www.webmd.com/cancer/myelofibrosis-causes-risk-factors"
+    },
+    {
+      "name": "Agnosia, Primary Visual",
+      "url": "https://www.webmd.com/mental-health/dissociative-amnesia"
+    },
+    {
+      "name": "Agoraphobia",
+      "url": "https://www.webmd.com/anxiety-panic/agoraphobia"
+    },
+    {
+      "name": "AIDS (Acquired Immunodeficiency Syndrome)",
+      "url": "https://www.webmd.com/hiv-aids/default.htm"
+    },
+    {
+      "name": "Airsickness",
+      "url": "https://www.webmd.com/cold-and-flu/ear-infection/motion-sickness"
+    },
+    {
+      "name": "Albinism",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/hyperpigmentation-hypopigmentation"
+    },
+    {
+      "name": "Alcohol Abuse",
+      "url": "https://www.webmd.com/mental-health/addiction/default.htm"
+    },
+    {
+      "name": "Alcohol Abuse, Teen",
+      "url": "https://teens.webmd.com/teens-and-alcohol"
+    },
+    {
+      "name": "Alcohol Effects on a Fetus",
+      "url": "https://www.webmd.com/baby/fetal-alcohol-syndrome"
+    },
+    {
+      "name": "Alcohol Poisoning",
+      "url": "https://www.webmd.com/mental-health/addiction/alcohol-poisoning-overview"
+    },
+    {
+      "name": "ALD",
+      "url": "https://www.webmd.com/brain/leukodystrophy-types"
+    },
+    {
+      "name": "Aldosteronism With Normal Blood Pressure",
+      "url": "https://www.webmd.com/children/bartter-syndrome-facts"
+    },
+    {
+      "name": "Algodystrophy",
+      "url": "https://www.webmd.com/brain/what-is-reflex-sympathetic-dystrophy-syndrome"
+    },
+    {
+      "name": "Allergies",
+      "url": "https://www.webmd.com/allergies/default.htm"
+    },
+    {
+      "name": "Allergies to Insect Stings",
+      "url": "https://www.webmd.com/allergies/insect-stings"
+    },
+    {
+      "name": "Allergy Shots",
+      "url": "https://www.webmd.com/allergies/allergy-shots"
+    },
+    {
+      "name": "Allergy to Natural Rubber (Latex)",
+      "url": "https://www.webmd.com/allergies/latex-allergies"
+    },
+    {
+      "name": "Allergy Triggers Slideshow",
+      "url": "https://www.webmd.com/allergies/ss/slideshow-common-allergy-triggers"
+    },
+    {
+      "name": "AloBar Holoprosencephaly",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-encephalitis-basics"
+    },
+    {
+      "name": "Alopecia Areata",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/alopecia-areata"
+    },
+    {
+      "name": "Altitude Headache",
+      "url": "https://www.webmd.com/migraines-headaches/altitude-headache-overview"
+    },
+    {
+      "name": "Alzheimer's",
+      "url": "https://www.webmd.com/alzheimers/default.htm"
+    },
+    {
+      "name": "Anaplastic Large-cell Lymphoma",
+      "url": "https://www.webmd.com/cancer/lymphoma/anaplastic-large-cell-lymphoma"
+    },
+    {
+      "name": "Angina",
+      "url": "https://www.webmd.com/heart-disease/heart-disease-angina"
+    },
+    {
+      "name": "Anorexia Nervosa",
+      "url": "https://www.webmd.com/mental-health/eating-disorders/anorexia-nervosa/default.htm"
+    },
+    {
+      "name": "Anxiety & Panic",
+      "url": "https://www.webmd.com/anxiety-panic/default.htm"
+    },
+    {
+      "name": "Apert Syndrome",
+      "url": "https://www.webmd.com/children/apert-syndrome-symptoms-treatments-prognosis"
+    },
+    {
+      "name": "APLS",
+      "url": "https://www.webmd.com/dvt/what-is-antiphospholipid-syndrome"
+    },
+    {
+      "name": "Apnea, Infantile",
+      "url": "https://www.webmd.com/sleep-disorders/sleep-apnea/features/could-your-child-have-sleep-apnea"
+    },
+    {
+      "name": "Appendicitis",
+      "url": "https://www.webmd.com/digestive-disorders/digestive-diseases-appendicitis"
+    },
+    {
+      "name": "Apraxia",
+      "url": "https://www.webmd.com/brain/apraxia-symptoms-causes-tests-treatments"
+    },
+    {
+      "name": "Arachnitis",
+      "url": "https://www.webmd.com/pain-management/guide/pain-management-arachnoiditis"
+    },
+    {
+      "name": "Arachnodactyly",
+      "url": "https://www.webmd.com/heart-disease/guide/heart-disease-prevent"
+    },
+    {
+      "name": "Arachnoidal Fibroblastoma",
+      "url": "https://www.webmd.com/cancer/brain-cancer/meningioma-causes-symptoms-treatment"
+    },
+    {
+      "name": "Arbovirus A Chikungunya Type",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-chikungunya"
+    },
+    {
+      "name": "ARDS",
+      "url": "https://www.webmd.com/lung/ards-acute-respiratory-distress-syndrome"
+    },
+    {
+      "name": "Aregenerative Anemia",
+      "url": "https://www.webmd.com/a-to-z-guides/anemia-rare-types"
+    },
+    {
+      "name": "ARG Deficiency",
+      "url": "https://www.webmd.com/children/urea-cycle-disorders"
+    },
+    {
+      "name": "Arnold-Chiari Malformation",
+      "url": "https://www.webmd.com/brain/chiari-malformation-symptoms-types-treatment"
+    },
+    {
+      "name": "Aromatherapy (Essential Oils Therapy)",
+      "url": "https://www.webmd.com/balance/stress-management/aromatherapy-overview"
+    },
+    {
+      "name": "Arrhythmia",
+      "url": "https://www.webmd.com/heart-disease/atrial-fibrillation/heart-disease-abnormal-heart-rhythm"
+    },
+    {
+      "name": "Arteriovenous Malformation",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/picture-of-vascular-malformations-foot"
+    },
+    {
+      "name": "Arteritis, Takayasu",
+      "url": "https://www.webmd.com/heart-disease/takayasus-arteritis"
+    },
+    {
+      "name": "Arthritic Rheumatoid Disease",
+      "url": "https://www.webmd.com/arthritis/polymyalgia-rheumatica-temporal-arteritis"
+    },
+    {
+      "name": "Arthritis",
+      "url": "https://www.webmd.com/arthritis/default.htm"
+    },
+    {
+      "name": "Arthritis (Osteoarthritis)",
+      "url": "https://www.webmd.com/osteoarthritis/default.htm"
+    },
+    {
+      "name": "Arthritis Urethritica",
+      "url": "https://www.webmd.com/arthritis/arthritis-reactive-arthritis"
+    },
+    {
+      "name": "Arthritis, Infectious",
+      "url": "https://www.webmd.com/arthritis/septic-arthritis-symptoms-diagnosis-and-treatment"
+    },
+    {
+      "name": "Arthritis, Juvenile Rheumatoid",
+      "url": "https://www.webmd.com/rheumatoid-arthritis/guide/juvenile-rheumatoid-arthritis"
+    },
+    {
+      "name": "Arthritis, Psoriatic",
+      "url": "https://www.webmd.com/arthritis/psoriatic-arthritis/psoriatic-arthritis-the-basics"
+    },
+    {
+      "name": "Arthritis, Rheumatoid",
+      "url": "https://www.webmd.com/rheumatoid-arthritis/default.htm"
+    },
+    {
+      "name": "Asthma",
+      "url": "https://www.webmd.com/asthma/default.htm"
+    },
+    {
+      "name": "Atrial Fibrillation",
+      "url": "https://www.webmd.com/heart-disease/atrial-fibrillation/default.htm"
+    },
+    {
+      "name": "Autism",
+      "url": "https://www.webmd.com/brain/autism/default.htm"
+    },
+    {
+      "name": "Autogenic Training",
+      "url": "https://www.webmd.com/pain-management/hypnosis-meditation-and-relaxation-for-pain-treatment"
+    },
+    {
+      "name": "Autoimmune Thyroiditis",
+      "url": "https://www.webmd.com/women/whatis-autoimmune-thyroiditis"
+    },
+    {
+      "name": "Autosomal Dominant Polycystic Kidney Disease",
+      "url": "https://www.webmd.com/a-to-z-guides/autosomal-dominant-polycystic-kidney-disease"
+    },
+    {
+      "name": "Avascular Necrosis of Bone",
+      "url": "https://www.webmd.com/arthritis/avascular-necrosis-osteonecrosis-symptoms-treatments"
+    },
+    {
+      "name": "Avian Influenza (Bird Flu)",
+      "url": "https://www.webmd.com/cold-and-flu/flu-guide/what-know-about-bird-flu"
+    },
+    {
+      "name": "Avoiding Mercury in Fish",
+      "url": "https://www.webmd.com/diet/mercury-in-fish"
+    },
+    {
+      "name": "Axonal Neuropathy, Giant",
+      "url": "https://www.webmd.com/brain/multifocal-motor-neuropathy"
+    },
+    {
+      "name": "Ayurveda",
+      "url": "https://www.webmd.com/balance/guide/ayurvedic-treatments"
+    },
+    {
+      "name": "Babesiosis",
+      "url": "https://www.webmd.com/a-to-z-guides/babesiosis-blood-infection"
+    },
+    {
+      "name": "Baby",
+      "url": "https://www.webmd.com/parenting/baby/default.htm"
+    },
+    {
+      "name": "Baby Hygiene",
+      "url": "https://www.webmd.com/parenting/baby/baths-hair-and-nails"
+    },
+    {
+      "name": "Baby Safety",
+      "url": "https://www.webmd.com/parenting/guide/baby-safety"
+    },
+    {
+      "name": "Back Pain",
+      "url": "https://www.webmd.com/back-pain/default.htm"
+    },
+    {
+      "name": "Bacterial Meningitis",
+      "url": "https://www.webmd.com/children/understanding-meningitis-basics"
+    },
+    {
+      "name": "Bacterial Meningococcal Meningitis",
+      "url": "https://www.webmd.com/children/meningococcal-meningitis-symptoms-causes-treatments-and-vaccines"
+    },
+    {
+      "name": "Bacterial Vaginosis",
+      "url": "https://www.webmd.com/women/guide/what-is-bacterial-vaginosis"
+    },
+    {
+      "name": "Bad or Changed Breath",
+      "url": "https://www.webmd.com/oral-health/guide/bad-breath"
+    },
+    {
+      "name": "Balance",
+      "url": "https://www.webmd.com/balance/default.htm"
+    },
+    {
+      "name": "Baldness",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/hair-loss/understanding-hair-loss-basics"
+    },
+    {
+      "name": "Balo Disease",
+      "url": "https://www.webmd.com/multiple-sclerosis/balos-disease"
+    },
+    {
+      "name": "Barrett Esophagus",
+      "url": "https://www.webmd.com/heartburn-gerd/guide/barretts-esophagus-symptoms-causes-and-treatments"
+    },
+    {
+      "name": "Bartholin Gland Cyst",
+      "url": "https://www.webmd.com/women/guide/bartholins-gland-cyst"
+    },
+    {
+      "name": "Basal Cell Carcinoma",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/melanoma-guide/basal-cell-carcinoma"
+    },
+    {
+      "name": "Basic Dental Care",
+      "url": "https://www.webmd.com/oral-health/teeth-and-gum-care"
+    },
+    {
+      "name": "Basic Metabolic Panel",
+      "url": "https://www.webmd.com/a-to-z-guides/comprehensive-metabolic-panel"
+    },
+    {
+      "name": "Batten Disease",
+      "url": "https://www.webmd.com/children/batten-disease"
+    },
+    {
+      "name": "B-Cell Acute Lymphoblastic Leukemia for Adults",
+      "url": "https://www.webmd.com/cancer/lymphoma/b-cell-acute-lymphoblastic-leukemia-adults"
+    },
+    {
+      "name": "BD",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/behcet-syndrome"
+    },
+    {
+      "name": "Beauty",
+      "url": "https://www.webmd.com/beauty/default.htm"
+    },
+    {
+      "name": "Bilateral Acoustic Neurofibromatosis",
+      "url": "https://www.webmd.com/pain-management/neurofibromatosis"
+    },
+    {
+      "name": "Bilateral Acoustic Neuroma",
+      "url": "https://www.webmd.com/brain/acoustic-neuroma-causes-symptoms-treatments"
+    },
+    {
+      "name": "Bilateral Polycystic Ovarian Syndrome",
+      "url": "https://www.webmd.com/infertility-and-reproduction/polycystic-ovary-syndrome-fertility"
+    },
+    {
+      "name": "Biliary Atresia, Extrahepatic",
+      "url": "https://www.webmd.com/parenting/baby/biliary-atresia"
+    },
+    {
+      "name": "Biliary Cirrhosis, Primary",
+      "url": "https://www.webmd.com/digestive-disorders/primary-biliary-cirrhosis"
+    },
+    {
+      "name": "Binge Drinking",
+      "url": "https://www.webmd.com/mental-health/addiction/binge-drinking"
+    },
+    {
+      "name": "Binge Eating Disorder",
+      "url": "https://www.webmd.com/mental-health/eating-disorders/binge-eating-disorder/default.htm"
+    },
+    {
+      "name": "Binge-Purge Disorder",
+      "url": "https://www.webmd.com/mental-health/eating-disorders/bulimia-nervosa/mental-health-bulimia-nervosa"
+    },
+    {
+      "name": "Biofeedback",
+      "url": "https://www.webmd.com/pain-management/biofeedback-therapy-uses-benefits"
+    },
+    {
+      "name": "Bioterrorism",
+      "url": "https://www.webmd.com/first-aid/biological-warfare-treatment"
+    },
+    {
+      "name": "Bipolar Disorder",
+      "url": "https://www.webmd.com/bipolar-disorder/default.htm"
+    },
+    {
+      "name": "Bipolar Disorder in Child and Teens",
+      "url": "https://www.webmd.com/bipolar-disorder/guide/bipolar-children-teens"
+    },
+    {
+      "name": "Birth Control",
+      "url": "https://www.webmd.com/sex/birth-control/default.htm"
+    },
+    {
+      "name": "Birth Defects Testing",
+      "url": "https://www.webmd.com/baby/your-guide-prenatal-testing"
+    },
+    {
+      "name": "Birthmarks",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/birthmarks"
+    },
+    {
+      "name": "Birthmarks Slideshow",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-birthmarks"
+    },
+    {
+      "name": "Biting",
+      "url": "https://www.webmd.com/parenting/stop-children-from-biting"
+    },
+    {
+      "name": "Black Death",
+      "url": "https://www.webmd.com/a-to-z-guides/plague-faq"
+    },
+    {
+      "name": "Black Eye",
+      "url": "https://www.webmd.com/eye-health/understanding-black-eye-basics"
+    },
+    {
+      "name": "Black Hairy Tongue",
+      "url": "https://www.webmd.com/oral-health/guide/black-hairy-tongue"
+    },
+    {
+      "name": "Black Lung Disease",
+      "url": "https://www.webmd.com/lung/lung-diseases-overview"
+    },
+    {
+      "name": "Black Widow Spider Bite",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/black-widow-spider-bite"
+    },
+    {
+      "name": "Bladder Cancer",
+      "url": "https://www.webmd.com/cancer/bladder-cancer/default.htm"
+    },
+    {
+      "name": "Bladder Infections in Children",
+      "url": "https://www.webmd.com/children/if-your-child-gets-a-uti"
+    },
+    {
+      "name": "Bladder Infections in Teens and Adults",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-bladder-infections-basic-information"
+    },
+    {
+      "name": "Bleeding from a Minor Head Wound",
+      "url": "https://www.webmd.com/fitness-exercise/guide/head-injuries-causes-and-treatments"
+    },
+    {
+      "name": "Blepharitis",
+      "url": "https://www.webmd.com/eye-health/blepharitis"
+    },
+    {
+      "name": "Blisters",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-blisters-basics"
+    },
+    {
+      "name": "Blocked Tear Ducts",
+      "url": "https://www.webmd.com/eye-health/what-are-blocked-tear-ducts"
+    },
+    {
+      "name": "Blood Transfusion",
+      "url": "https://www.webmd.com/a-to-z-guides/blood-transfusion-what-to-know"
+    },
+    {
+      "name": "BMI Calculator",
+      "url": "https://www.webmd.com/diet/body-bmi-calculator"
+    },
+    {
+      "name": "Body Piercings",
+      "url": "https://teens.webmd.com/teen-girls-body-ear-piercing"
+    },
+    {
+      "name": "Bone Spurs",
+      "url": "https://www.webmd.com/pain-management/what-are-bone-spurs"
+    },
+    {
+      "name": "Bone Tumor-Epidermoid Cyst-Polyposis",
+      "url": "https://www.webmd.com/colorectal-cancer/understanding-colorectal-cancer-basics"
+    },
+    {
+      "name": "Borderline Personality Disorder",
+      "url": "https://www.webmd.com/mental-health/borderline-personality-disorder"
+    },
+    {
+      "name": "Bottle-Feeding",
+      "url": "https://www.webmd.com/parenting/baby/your-babys-feeding-breast-vs-bottle"
+    },
+    {
+      "name": "Bovine Spongiform Encephalopathy",
+      "url": "https://www.webmd.com/brain/mad-cow-disease-basics"
+    },
+    {
+      "name": "Bowel Obstruction",
+      "url": "https://www.webmd.com/digestive-disorders/what-is-bowel-obstruction"
+    },
+    {
+      "name": "Bowen's Disease",
+      "url": "https://www.webmd.com/cancer/what-is-bowens-disease"
+    },
+    {
+      "name": "BPH (Benign Prostatic Hyperplasia)",
+      "url": "https://www.webmd.com/men/prostate-enlargement-bph/what-is-bph"
+    },
+    {
+      "name": "Bradycardia (Slow Heart Rate)",
+      "url": "https://www.webmd.com/heart-disease/atrial-fibrillation/bradycardia"
+    },
+    {
+      "name": "Brain & Nervous System",
+      "url": "https://www.webmd.com/brain/default.htm"
+    },
+    {
+      "name": "Brain Aneurysm",
+      "url": "https://www.webmd.com/brain/brain-aneurysm"
+    },
+    {
+      "name": "Brain Cancer",
+      "url": "https://www.webmd.com/cancer/brain-cancer/default.htm"
+    },
+    {
+      "name": "Brain Tumors in Adults",
+      "url": "https://www.webmd.com/cancer/brain-cancer/brain-tumors-in-adults"
+    },
+    {
+      "name": "Brain Tumors, General",
+      "url": "https://www.webmd.com/cancer/brain-cancer/brain-cancer"
+    },
+    {
+      "name": "Brazilian Pemphigus Foliaceus",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-pemphigus"
+    },
+    {
+      "name": "Brazilian Trypanosomiasis",
+      "url": "https://www.webmd.com/a-to-z-guides/chagas-disease-overview"
+    },
+    {
+      "name": "Breast Cancer",
+      "url": "https://www.webmd.com/breast-cancer/default.htm"
+    },
+    {
+      "name": "Breast Cancer and Pregnancy",
+      "url": "https://www.webmd.com/breast-cancer/breast-cancer-during-pregnancy"
+    },
+    {
+      "name": "Breast Cancer and Your Genes",
+      "url": "https://www.webmd.com/breast-cancer/guide/genetic-testing-risk"
+    },
+    {
+      "name": "Breast Cancer in Men",
+      "url": "https://www.webmd.com/breast-cancer/breast-cancer-men"
+    },
+    {
+      "name": "Breast Cancer Risk Factors",
+      "url": "https://www.webmd.com/breast-cancer/overview-risks-breast-cancer"
+    },
+    {
+      "name": "Breast Cancer, Metastatic or Recurrent",
+      "url": "https://www.webmd.com/breast-cancer/guide/metastatic-breast-cancer-symptoms-diagnosis"
+    },
+    {
+      "name": "Breast Cancer: Screening",
+      "url": "https://www.webmd.com/breast-cancer/breast-cancer-screening-detection-overview"
+    },
+    {
+      "name": "Breast Cancer: Treatment",
+      "url": "https://www.webmd.com/breast-cancer/breast-cancer-treatment"
+    },
+    {
+      "name": "Breast Development in Boys",
+      "url": "https://www.webmd.com/men/what-is-gynecomastia"
+    },
+    {
+      "name": "Breast Engorgement",
+      "url": "https://www.webmd.com/women/what-is-engorgement"
+    },
+    {
+      "name": "Breast Infection (Mastitis)",
+      "url": "https://www.webmd.com/parenting/baby/what-is-mastitis"
+    },
+    {
+      "name": "Breast Lumps (Benign)",
+      "url": "https://www.webmd.com/breast-cancer/guide/benign-breast-lumps"
+    },
+    {
+      "name": "Breast Pain (Mastalgia)",
+      "url": "https://www.webmd.com/women/guide/why-do-my-breasts-hurt"
+    },
+    {
+      "name": "Breast Problems",
+      "url": "https://www.webmd.com/women/guide/understanding-breast-problems-basic-information"
+    },
+    {
+      "name": "Breast Reconstruction",
+      "url": "https://www.webmd.com/breast-cancer/breast-reconstruction-after-mastectomy"
+    },
+    {
+      "name": "Breath-Holding Spells",
+      "url": "https://www.webmd.com/children/children-breath-holding"
+    },
+    {
+      "name": "Breech Position and Breech Birth",
+      "url": "https://www.webmd.com/baby/understanding-labor-delivery-complications-basics"
+    },
+    {
+      "name": "Brittle Bone Disease",
+      "url": "https://www.webmd.com/children/brittle-bone-disease"
+    },
+    {
+      "name": "Buerger's Disease",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-buergers-disease"
+    },
+    {
+      "name": "Bulbospinal Muscular Atrophy, X-linked",
+      "url": "https://www.webmd.com/brain/what-are-motor-neuron-diseases"
+    },
+    {
+      "name": "Bulimia Nervosa (Sensitive Topic)",
+      "url": "https://www.webmd.com/mental-health/eating-disorders/bulimia-nervosa/default.htm"
+    },
+    {
+      "name": "Bullying",
+      "url": "https://www.webmd.com/parenting/guide/children-bullying-school"
+    },
+    {
+      "name": "Bunions",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-bunions-basics"
+    },
+    {
+      "name": "Bunyavirus Infection",
+      "url": "https://www.webmd.com/a-to-z-guides/yellow-fever-symptoms-treatment"
+    },
+    {
+      "name": "Burning Mouth Syndrome",
+      "url": "https://www.webmd.com/oral-health/burning-mouth-syndrome-facts"
+    },
+    {
+      "name": "Burns",
+      "url": "https://www.webmd.com/first-aid/thermal-heat-or-fire-burns-treatment"
+    },
+    {
+      "name": "Bursitis",
+      "url": "https://www.webmd.com/pain-management/arthritis-bursitis"
+    },
+    {
+      "name": "C1-INH",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/hereditary-angioedema"
+    },
+    {
+      "name": "CAD (Coronary Artery Disease)",
+      "url": "https://www.webmd.com/heart-disease/heart-disease-coronary-artery-disease"
+    },
+    {
+      "name": "Calcaneal Valgus",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-clubfoot"
+    },
+    {
+      "name": "Calcium for Osteoporosis",
+      "url": "https://www.webmd.com/osteoporosis/guide/understanding-osteoporosis-treatment"
+    },
+    {
+      "name": "Calluses and Corns",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/blisters-corns-calluses"
+    },
+    {
+      "name": "Campylobacteriosis",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/what-is-campylobacter-infection"
+    },
+    {
+      "name": "Cancer",
+      "url": "https://www.webmd.com/cancer/default.htm"
+    },
+    {
+      "name": "Cancer of the Tongue",
+      "url": "https://www.webmd.com/cancer/tongue-cancer-facts"
+    },
+    {
+      "name": "Cancer Pain",
+      "url": "https://www.webmd.com/cancer/pain-management-cancer-pain"
+    },
+    {
+      "name": "Canefield Fever",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-leptospirosis"
+    },
+    {
+      "name": "Canker Sores",
+      "url": "https://www.webmd.com/oral-health/guide/canker-sores"
+    },
+    {
+      "name": "Capsaicin",
+      "url": "https://www.webmd.com/pain-management/what-is-capsaicin"
+    },
+    {
+      "name": "Car Seats for Children",
+      "url": "https://www.webmd.com/parenting/baby/stay-safe-in-car"
+    },
+    {
+      "name": "Carbon Monoxide Poisoning",
+      "url": "https://www.webmd.com/a-to-z-guides/prevent-carbon-monoxide-poisoning"
+    },
+    {
+      "name": "Carcinoid Apudoma",
+      "url": "https://www.webmd.com/cancer/carcinoid-syndrome"
+    },
+    {
+      "name": "Carpal Tunnel Syndrome",
+      "url": "https://www.webmd.com/pain-management/carpal-tunnel/default.htm"
+    },
+    {
+      "name": "Cataracts",
+      "url": "https://www.webmd.com/eye-health/cataracts/default.htm"
+    },
+    {
+      "name": "Catatonia",
+      "url": "https://www.webmd.com/schizophrenia/what-is-catatonia"
+    },
+    {
+      "name": "Cats",
+      "url": "https://pets.webmd.com/cats/default.htm"
+    },
+    {
+      "name": "Celiac Disease",
+      "url": "https://www.webmd.com/digestive-disorders/celiac-disease/default.htm"
+    },
+    {
+      "name": "Central Precocious Puberty",
+      "url": "https://www.webmd.com/parenting/central-precocious-puberty"
+    },
+    {
+      "name": "Cervical Cancer",
+      "url": "https://www.webmd.com/cancer/cervical-cancer/default.htm"
+    },
+    {
+      "name": "Cervical Ectropion",
+      "url": "https://www.webmd.com/cancer/cervical-cancer/cervical-ectropion"
+    },
+    {
+      "name": "CF (Cystic Fibrosis)",
+      "url": "https://www.webmd.com/children/what-is-cystic-fibrosis"
+    },
+    {
+      "name": "CFS",
+      "url": "https://www.webmd.com/chronic-fatigue-syndrome/what-is-chronic-fatigue-syndrome"
+    },
+    {
+      "name": "CGD -- Growth Delay, Constitutional",
+      "url": "https://www.webmd.com/children/default.htm"
+    },
+    {
+      "name": "Chalazia",
+      "url": "https://www.webmd.com/eye-health/understanding-stye-basics"
+    },
+    {
+      "name": "Chalazion",
+      "url": "https://www.webmd.com/eye-health/chalazion-what-is"
+    },
+    {
+      "name": "Chamomile",
+      "url": "https://www.webmd.com/diet/supplement-guide-chamomile"
+    },
+    {
+      "name": "Chanarin Dorfman Disease",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-ichthyosis"
+    },
+    {
+      "name": "Charcot-Marie-Tooth Disease",
+      "url": "https://www.webmd.com/brain/what-is-charcot-marie-tooth-disease"
+    },
+    {
+      "name": "Chelation Therapy",
+      "url": "https://www.webmd.com/balance/guide/what-is-chelation-therapy"
+    },
+    {
+      "name": "CHF (Congestive Heart Failure)",
+      "url": "https://www.webmd.com/heart-disease/guide-heart-failure"
+    },
+    {
+      "name": "CHH",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-chondrodysplasia"
+    },
+    {
+      "name": "Chi Gong",
+      "url": "https://www.webmd.com/fitness-exercise/a-z/tai-chi-and-chi-gong"
+    },
+    {
+      "name": "Chiari-Budd Syndrome",
+      "url": "https://www.webmd.com/hepatitis/ss/slideshow-liver-failure-problems"
+    },
+    {
+      "name": "Chickenpox (Varicella)",
+      "url": "https://www.webmd.com/children/what-is-chickenpox"
+    },
+    {
+      "name": "Chilblains",
+      "url": "https://www.webmd.com/first-aid/frostbite"
+    },
+    {
+      "name": "Child Care",
+      "url": "https://www.webmd.com/parenting/childcare-options"
+    },
+    {
+      "name": "Childbirth",
+      "url": "https://www.webmd.com/baby/guide/pregnancy-stages-labor"
+    },
+    {
+      "name": "Childhood Depression",
+      "url": "https://www.webmd.com/depression/guide/depression-children"
+    },
+    {
+      "name": "Childhood Muscular Dystrophy",
+      "url": "https://www.webmd.com/children/understanding-muscular-dystrophy-basics"
+    },
+    {
+      "name": "Childhood Obesity",
+      "url": "https://www.webmd.com/children/guide/obesity-children"
+    },
+    {
+      "name": "Children - Childhood Skin Problems Slideshow",
+      "url": "https://www.webmd.com/children/ss/slideshow-common-childhood-skin-problems"
+    },
+    {
+      "name": "Children's Healthy Eating",
+      "url": "https://www.webmd.com/children/kids-healthy-eating-habits"
+    },
+    {
+      "name": "Children's Vaccines",
+      "url": "https://www.webmd.com/children/vaccines/default.htm"
+    },
+    {
+      "name": "Chinese Medicine",
+      "url": "https://www.webmd.com/balance/guide/what-is-traditional-chinese-medicine"
+    },
+    {
+      "name": "Cholesterol Management",
+      "url": "https://www.webmd.com/cholesterol-management/default.htm"
+    },
+    {
+      "name": "Chronic Fatigue Syndrome",
+      "url": "https://www.webmd.com/chronic-fatigue-syndrome/default.htm"
+    },
+    {
+      "name": "Chronic Lymphocytic Leukemia",
+      "url": "https://www.webmd.com/cancer/lymphoma/chronic-lymphocytic-leukemia-rare"
+    },
+    {
+      "name": "Chronic Myeloid Leukemia",
+      "url": "https://www.webmd.com/cancer/lymphoma/cml-need-to-know-first"
+    },
+    {
+      "name": "Classic Galactosemia",
+      "url": "https://www.webmd.com/children/what-is-galactrosemia"
+    },
+    {
+      "name": "Classic Type Pfeiffer Syndrome",
+      "url": "https://www.webmd.com/children/what-is-pfeiffer-syndrome"
+    },
+    {
+      "name": "Cleaning and Bandaging a Wound",
+      "url": "https://www.webmd.com/first-aid/relieving-wound-pain"
+    },
+    {
+      "name": "Cleft Lip",
+      "url": "https://www.webmd.com/oral-health/cleft-lip-cleft-palate"
+    },
+    {
+      "name": "Clival Chordoma",
+      "url": "https://www.webmd.com/cancer/what-is-chordoma"
+    },
+    {
+      "name": "Cloning",
+      "url": "https://www.webmd.com/healthy-aging/features/cloning-facts-fiction"
+    },
+    {
+      "name": "Clostridium Difficile Colitis",
+      "url": "https://www.webmd.com/digestive-disorders/clostridium-difficile-colitis"
+    },
+    {
+      "name": "Cluster Headaches",
+      "url": "https://www.webmd.com/migraines-headaches/cluster-headaches"
+    },
+    {
+      "name": "CMTC",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/cutis-marmorata-telangiectatica-congenita"
+    },
+    {
+      "name": "CMV",
+      "url": "https://www.webmd.com/hiv-aids/guide/aids-hiv-opportunistic-infections-cytomegalovirus"
+    },
+    {
+      "name": "Cochlear Implants",
+      "url": "https://www.webmd.com/healthy-aging/understanding-cochlear-implants"
+    },
+    {
+      "name": "Coenzyme Q10",
+      "url": "https://www.webmd.com/diet/supplement-guide-coenzymeq10-coq10"
+    },
+    {
+      "name": "Cold",
+      "url": "https://www.webmd.com/cold-and-flu/default.htm"
+    },
+    {
+      "name": "Cold Agglutinin Disease",
+      "url": "https://www.webmd.com/women/what-is-cold-agglutinin-disease"
+    },
+    {
+      "name": "Cold Packs",
+      "url": "https://www.webmd.com/pain-management/try-heat-or-ice"
+    },
+    {
+      "name": "Cold Sores",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-cold-sores-basics"
+    },
+    {
+      "name": "Colic",
+      "url": "https://www.webmd.com/parenting/baby/understanding-colic-basics"
+    },
+    {
+      "name": "Colitis",
+      "url": "https://www.webmd.com/ibd-crohns-disease/ulcerative-colitis/digestive-diseases-ulcerative-colitis-treatment"
+    },
+    {
+      "name": "Colorectal Cancer",
+      "url": "https://www.webmd.com/colorectal-cancer/default.htm"
+    },
+    {
+      "name": "COPD",
+      "url": "https://www.webmd.com/lung/copd/default.htm"
+    },
+    {
+      "name": "Coronavirus (COVID-19)",
+      "url": "https://www.webmd.com/lung/coronavirus"
+    },
+    {
+      "name": "Coronavirus (COVID-19), Complicaitons",
+      "url": "https://www.webmd.com/lung/coronavirus-complications"
+    },
+    {
+      "name": "Coronavirus (COVID-19) and Asthma",
+      "url": "https://www.webmd.com/asthma/covid-19-asthma"
+    },
+    {
+      "name": "Coronavirus (COVID-19) and High Blood Pressure",
+      "url": "https://www.webmd.com/lung/coronavirus-high-blood-pressure"
+    },
+    {
+      "name": "Coronavirus (COVID-19) and Pregnancy",
+      "url": "https://www.webmd.com/lung/coronavirus-pregnancy"
+    },
+    {
+      "name": "Coronavirus (COVID-19) in Children, Infants",
+      "url": "https://www.webmd.com/lung/coronavirus-covid-19-babies-children"
+    },
+    {
+      "name": "Coronavirus (COVID-19), Recovery",
+      "url": "https://www.webmd.com/lung/covid-recovery-overview"
+    },
+    {
+      "name": "Coronavirus (COVID-19), Symptoms",
+      "url": "https://www.webmd.com/lung/covid-19-symptoms"
+    },
+    {
+      "name": "Coronavirus (COVID-19), Testing at Home",
+      "url": "https://www.webmd.com/lung/covid-at-home-test"
+    },
+    {
+      "name": "Coronavirus (COVID-19), Testing",
+      "url": "https://www.webmd.com/lung/coronavirus-testing"
+    },
+    {
+      "name": "Coronavirus, Types",
+      "url": "https://www.webmd.com/lung/coronavirus-strains"
+    },
+    {
+      "name": "COVID-19, Antibody Testing",
+      "url": "https://www.webmd.com/lung/antibody-testing-covid-19"
+    },
+    {
+      "name": "CP",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/autoimmune-blistering-disorders"
+    },
+    {
+      "name": "CPR",
+      "url": "https://www.webmd.com/first-aid/cardiopulmonary-resuscitation-cpr-treatment"
+    },
+    {
+      "name": "Crabs (Pubic Lice)",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/skin-conditions-lice"
+    },
+    {
+      "name": "Cradle Cap",
+      "url": "https://www.webmd.com/children/guide/childhood-skin-problems"
+    },
+    {
+      "name": "Creutzfeldt Jakob Disease",
+      "url": "https://www.webmd.com/brain/what-is-creutzfeldt-jakob-disease"
+    },
+    {
+      "name": "Crib Death",
+      "url": "https://www.webmd.com/parenting/baby/what-is-sids"
+    },
+    {
+      "name": "Crohn's Disease",
+      "url": "https://www.webmd.com/ibd-crohns-disease/default.htm"
+    },
+    {
+      "name": "Cross-Eyes (Strabismus)",
+      "url": "https://www.webmd.com/eye-health/strabismus"
+    },
+    {
+      "name": "Crosti-Gianotti Syndrome",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-gianotti-crosti-syndrome"
+    },
+    {
+      "name": "Croup",
+      "url": "https://www.webmd.com/children/understanding-croup-basic-information"
+    },
+    {
+      "name": "Croup Treatment",
+      "url": "https://www.webmd.com/children/understanding-croup-treatment"
+    },
+    {
+      "name": "Crow-Fukase Syndrome",
+      "url": "https://dictionary.webmd.com/poems-syndrome"
+    },
+    {
+      "name": "Crystal Meth",
+      "url": "https://www.webmd.com/mental-health/addiction/crystal-meth-what-you-should_know"
+    },
+    {
+      "name": "Curvature of the Spine (Scoliosis)",
+      "url": "https://www.webmd.com/back-pain/causes-scoliosis"
+    },
+    {
+      "name": "Cutaneous T-Cell Lymphomas",
+      "url": "https://www.webmd.com/cancer/lymphoma/lymphoma-cancer"
+    },
+    {
+      "name": "Cushing's Syndrome",
+      "url": "https://www.webmd.com/a-to-z-guides/cushing-syndrome"
+    },
+    {
+      "name": "Cyclic Edema",
+      "url": "https://www.webmd.com/heart-disease/heart-failure/edema-overview"
+    },
+    {
+      "name": "Cyclic Migraines",
+      "url": "https://www.webmd.com/migraines-headaches/what-are-cyclic-migraines"
+    },
+    {
+      "name": "Cyclist's Syndrome",
+      "url": "https://www.webmd.com/pain-management/pudendal-neuralgia"
+    },
+    {
+      "name": "Cyprus Fever",
+      "url": "https://www.webmd.com/a-to-z-guides/brucellosis-symptoms-treatment"
+    },
+    {
+      "name": "Cystic Fibrosis Carrier Screening",
+      "url": "https://www.webmd.com/children/how-do-doctors-diagnose-cystic-fibrosis"
+    },
+    {
+      "name": "Cystic Hygroma",
+      "url": "https://www.webmd.com/baby/cystic-hygroma-explained"
+    },
+    {
+      "name": "Cystic Lung Disease",
+      "url": "https://www.webmd.com/lung/what-is-cystic-lung-disease"
+    },
+    {
+      "name": "Cysts, Ovarian, Functional",
+      "url": "https://www.webmd.com/women/guide/ovarian-cysts"
+    },
+    {
+      "name": "D Trisomy Syndrome",
+      "url": "https://www.webmd.com/children/trisomy-13"
+    },
+    {
+      "name": "Dandruff",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-dandruff-basics"
+    },
+    {
+      "name": "Dandy Fever",
+      "url": "https://www.webmd.com/a-to-z-guides/dengue-fever-reference"
+    },
+    {
+      "name": "DASH Diet",
+      "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/dash-diet"
+    },
+    {
+      "name": "DBA",
+      "url": "https://www.webmd.com/a-to-z-guides/blackfan-diamond-anemia"
+    },
+    {
+      "name": "Deafness",
+      "url": "https://www.webmd.com/a-to-z-guides/hearing-loss-causes-symptoms-treatment"
+    },
+    {
+      "name": "Decubitis Ulcers",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/pressure-sores-4-stages"
+    },
+    {
+      "name": "Deep Vein Thrombosis (DVT)",
+      "url": "https://www.webmd.com/dvt/default.htm"
+    },
+    {
+      "name": "Deerfly Fever",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-tularemia"
+    },
+    {
+      "name": "Degenerative Chorea",
+      "url": "https://www.webmd.com/brain/hungtingtons-disease-causes-symptoms-treatment"
+    },
+    {
+      "name": "Degenerative Disc Disease",
+      "url": "https://www.webmd.com/back-pain/degenerative-disk-disease-overview"
+    },
+    {
+      "name": "Dehydration",
+      "url": "https://www.webmd.com/a-to-z-guides/dehydration-adults"
+    },
+    {
+      "name": "Depression",
+      "url": "https://www.webmd.com/depression/default.htm"
+    },
+    {
+      "name": "DH",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-dermatitis-herpetiformis"
+    },
+    {
+      "name": "Diabetes",
+      "url": "https://www.webmd.com/diabetes/default.htm"
+    },
+    {
+      "name": "Diabetes in Children: Dealing with Low Blood Sugar",
+      "url": "https://www.webmd.com/diabetes/child-blood-sugar-problems"
+    },
+    {
+      "name": "Diabetes in Pregnancy (Gestational Diabetes)",
+      "url": "https://www.webmd.com/diabetes/gestational-diabetes"
+    },
+    {
+      "name": "Diabetes Insipidus",
+      "url": "https://www.webmd.com/diabetes/guide/what-is-diabetes-insipidus"
+    },
+    {
+      "name": "Diabetes, Type 1",
+      "url": "https://www.webmd.com/diabetes/type-1-diabetes"
+    },
+    {
+      "name": "Diabetes, Type 1: Children Living With the Disease",
+      "url": "https://www.webmd.com/diabetes/might-my-child-have-type-1-diabetes"
+    },
+    {
+      "name": "Diabetes, Type 2",
+      "url": "https://www.webmd.com/diabetes/type-2-diabetes"
+    },
+    {
+      "name": "Diabetes, Type 2 in Children",
+      "url": "https://www.webmd.com/diabetes/type-2-diabetes-in-children"
+    },
+    {
+      "name": "Diabetes: Warning Signs",
+      "url": "https://www.webmd.com/diabetes/type-2-diabetes-symptoms"
+    },
+    {
+      "name": "Diabetic Eye Disease",
+      "url": "https://www.webmd.com/diabetes/diabetes-eye-problems"
+    },
+    {
+      "name": "Diabetic Ketoacidosis (DKA)",
+      "url": "https://www.webmd.com/diabetes/ketoacidosis"
+    },
+    {
+      "name": "Diabetic Macular Edema",
+      "url": "https://www.webmd.com/diabetes/diabetic-macular-edema"
+    },
+    {
+      "name": "Diabetic Neuropathy",
+      "url": "https://www.webmd.com/diabetes/diabetes-neuropathy"
+    },
+    {
+      "name": "Diabetic Retinopathy",
+      "url": "https://www.webmd.com/diabetes/diabetic-retinopathy"
+    },
+    {
+      "name": "Diabetic Sick-Day Guidelines",
+      "url": "https://www.webmd.com/diabetes/guide/managing-sick-days"
+    },
+    {
+      "name": "Dialysis, Deciding About",
+      "url": "https://www.webmd.com/a-to-z-guides/kidney-dialysis"
+    },
+    {
+      "name": "Diaper Rash",
+      "url": "https://www.webmd.com/parenting/baby/understanding-diaper-rash-basics"
+    },
+    {
+      "name": "Diaphragm Use and Care",
+      "url": "https://www.webmd.com/sex/birth-control/diaphragm-birth-control"
+    },
+    {
+      "name": "Diarrhea",
+      "url": "https://www.webmd.com/digestive-disorders/digestive-diseases-diarrhea"
+    },
+    {
+      "name": "Diet",
+      "url": "https://www.webmd.com/diet/default.htm"
+    },
+    {
+      "name": "Diet and Meniere's Disease",
+      "url": "https://www.webmd.com/brain/what-is-meniere-disease"
+    },
+    {
+      "name": "Diet for Kidney Disease",
+      "url": "https://www.webmd.com/a-to-z-guides/diet-and-chronic-kidney-disease"
+    },
+    {
+      "name": "Dietary Supplements",
+      "url": "https://www.webmd.com/vitamins-and-supplements/supplement-faq"
+    },
+    {
+      "name": "Difficulty Swallowing (Dysphagia)",
+      "url": "https://www.webmd.com/digestive-disorders/swallowing-problems"
+    },
+    {
+      "name": "Digestive Disorders",
+      "url": "https://www.webmd.com/digestive-disorders/default.htm"
+    },
+    {
+      "name": "Doctor's Appointment, Making the Most of",
+      "url": "https://www.webmd.com/a-to-z-guides/features/visit-tips"
+    },
+    {
+      "name": "Dogs",
+      "url": "https://pets.webmd.com/dogs/default.htm"
+    },
+    {
+      "name": "Domestic Violence",
+      "url": "https://www.webmd.com/mental-health/mental-whatis-domestic-abuse"
+    },
+    {
+      "name": "Down Syndrome",
+      "url": "https://www.webmd.com/children/understanding-down-syndrome-basics"
+    },
+    {
+      "name": "DR Syndrome",
+      "url": "https://www.webmd.com/eye-health/duane-syndrome-facts"
+    },
+    {
+      "name": "Drooping Eyelids",
+      "url": "https://www.webmd.com/eye-health/ptosis"
+    },
+    {
+      "name": "Drowning Prevention",
+      "url": "https://www.webmd.com/first-aid/drowning-in-children"
+    },
+    {
+      "name": "Drug Allergies",
+      "url": "https://www.webmd.com/allergies/allergies-medications"
+    },
+    {
+      "name": "Dry Skin and Itching",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/skin-conditions-pruritus"
+    },
+    {
+      "name": "Duchenne Muscular Dystrophy",
+      "url": "https://www.webmd.com/children/duchenne-muscular-dystrophy"
+    },
+    {
+      "name": "Duodenal Ulcer",
+      "url": "https://www.webmd.com/digestive-disorders/peptic-ulcer-overview"
+    },
+    {
+      "name": "Dupuytren's Disease",
+      "url": "https://www.webmd.com/a-to-z-guides/dupuytrens-disease-topic-overview"
+    },
+    {
+      "name": "Dysania",
+      "url": "https://www.webmd.com/mental-health/what-is-dysania"
+    },
+    {
+      "name": "Dysfunctional Uterine Bleeding",
+      "url": "https://www.webmd.com/women/abnormal-uterine-bleeding"
+    },
+    {
+      "name": "Dyslexia",
+      "url": "https://www.webmd.com/children/understanding-dyslexia-basics"
+    },
+    {
+      "name": "Dysphonia Spastica",
+      "url": "https://www.webmd.com/rheumatoid-arthritis/why-am-i-losing-my-voice"
+    },
+    {
+      "name": "E. coli Infection",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/food-poisoning-causes"
+    },
+    {
+      "name": "Ear Infection",
+      "url": "https://www.webmd.com/cold-and-flu/ear-infection/default.htm"
+    },
+    {
+      "name": "Early Disease Detection",
+      "url": "https://www.webmd.com/a-to-z-guides/annual-physical-examinations"
+    },
+    {
+      "name": "Early Fetal Ultrasound, Deciding About",
+      "url": "https://www.webmd.com/baby/pregnancy-ultrasounds-directory"
+    },
+    {
+      "name": "Eating Disorder, Pica Type",
+      "url": "https://www.webmd.com/mental-health/mental-health-pica"
+    },
+    {
+      "name": "Eaton-Lambert Syndrome",
+      "url": "https://www.webmd.com/brain/understanding-myasthenia-gravis-basics"
+    },
+    {
+      "name": "Ebola",
+      "url": "https://www.webmd.com/a-to-z-guides/ebola-fever-virus-infection"
+    },
+    {
+      "name": "Ectodermal Dysplasia, Rapp-Hodgkin type",
+      "url": "https://www.webmd.com/a-to-z-guides/rapp-hodgkin-syndrome"
+    },
+    {
+      "name": "Ectodermosis Erosiva Pluriorificialis",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/stevens-johnson-syndrome"
+    },
+    {
+      "name": "Ectopia Cordis",
+      "url": "https://www.webmd.com/baby/ectopia-cordis-overview"
+    },
+    {
+      "name": "Ectopic Pregnancy",
+      "url": "https://www.webmd.com/baby/pregnancy-ectopic-pregnancy"
+    },
+    {
+      "name": "Eczema",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/eczema/default.htm"
+    },
+    {
+      "name": "Eczema, Atopic",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/eczema/atopic-dermatitis-eczema"
+    },
+    {
+      "name": "E-D Syndrome",
+      "url": "https://www.webmd.com/a-to-z-guides/ehlers-danlos-syndrome-facts"
+    },
+    {
+      "name": "Edward's Syndrome",
+      "url": "https://www.webmd.com/baby/what-is-trisomy-18"
+    },
+    {
+      "name": "Egg Allergy",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/food-allergies"
+    },
+    {
+      "name": "Eisenmenger Complex",
+      "url": "https://www.webmd.com/a-to-z-guides/eisenmenger-syndrome"
+    },
+    {
+      "name": "Elephantiasis",
+      "url": "https://www.webmd.com/a-to-z-guides/elephantiasis-what-to-know"
+    },
+    {
+      "name": "Embolism, Pulmonary",
+      "url": "https://www.webmd.com/lung/what-is-a-pulmonary-embolism"
+    },
+    {
+      "name": "Emphysema",
+      "url": "https://www.webmd.com/lung/copd/10-faqs-about-living-with-copd"
+    },
+    {
+      "name": "Empty Sella Syndrome",
+      "url": "https://www.webmd.com/brain/empty-sella-syndrome-facts"
+    },
+    {
+      "name": "Encephalofacial Angiomatosis",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/port-wine-stain-birthmarks"
+    },
+    {
+      "name": "Endocarditis",
+      "url": "https://www.webmd.com/heart-disease/what-is-endocarditis"
+    },
+    {
+      "name": "Endocarditis, Prevention",
+      "url": "https://www.webmd.com/oral-health/endocarditis-prevention"
+    },
+    {
+      "name": "Endometrial Cancer",
+      "url": "https://www.webmd.com/uterine-cancer/default.htm"
+    },
+    {
+      "name": "Endometriosis",
+      "url": "https://www.webmd.com/women/endometriosis/default.htm"
+    },
+    {
+      "name": "Enterovirus D68",
+      "url": "https://www.webmd.com/children/enterovirus68-infection"
+    },
+    {
+      "name": "Eosinophilic Esophagitis",
+      "url": "https://www.webmd.com/digestive-disorders/what-is-eosinophilic-esophagitis"
+    },
+    {
+      "name": "Epicondylitis (Tennis Elbow)",
+      "url": "https://www.webmd.com/pain-management/tennis-elbow"
+    },
+    {
+      "name": "Epidemic Cholera",
+      "url": "https://www.webmd.com/a-to-z-guides/cholera-faq"
+    },
+    {
+      "name": "Epididymal Cyst",
+      "url": "https://www.webmd.com/men/spermatocele-or-epididemal-cysts"
+    },
+    {
+      "name": "Epididymitis",
+      "url": "https://www.webmd.com/men/what-is-epididymitis"
+    },
+    {
+      "name": "Epilepsy",
+      "url": "https://www.webmd.com/epilepsy/default.htm"
+    },
+    {
+      "name": "Epilepsy and Seizures",
+      "url": "https://www.webmd.com/epilepsy/first-aid-seizures"
+    },
+    {
+      "name": "Episodic Ataxia",
+      "url": "https://www.webmd.com/brain/ataxia-types-brain-and-nervous-system"
+    },
+    {
+      "name": "Epstein-Barr Virus",
+      "url": "https://www.webmd.com/a-to-z-guides/epstein-barr-virus"
+    },
+    {
+      "name": "Erectile Dysfunction",
+      "url": "https://www.webmd.com/erectile-dysfunction/default.htm"
+    },
+    {
+      "name": "Erythema Infectiosum (Fifth Disease)",
+      "url": "https://www.webmd.com/children/understanding-fifth-disease-basics"
+    },
+    {
+      "name": "Erythema Multiforme",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/picture-of-erythema-multiforme-minor"
+    },
+    {
+      "name": "Ewing's Family of Tumors",
+      "url": "https://www.webmd.com/cancer/ewings-sarcoma"
+    },
+    {
+      "name": "Exercise",
+      "url": "https://www.webmd.com/fitness-exercise/default.htm"
+    },
+    {
+      "name": "Exercise: 30-Minute Workout Slideshow",
+      "url": "https://www.webmd.com/fitness-exercise/ss/slideshow-30-minute-workout-routine"
+    },
+    {
+      "name": "Exercise: 7 Most Effective Exercises Slideshow",
+      "url": "https://www.webmd.com/fitness-exercise/ss/slideshow-7-most-effective-exercises"
+    },
+    {
+      "name": "Exercise: Flat Abs Slideshow",
+      "url": "https://www.webmd.com/fitness-exercise/ss/slideshow-9-tips-flat-abs"
+    },
+    {
+      "name": "Exercises for COPD",
+      "url": "https://www.webmd.com/lung/copd/copd-and-exercise-breathing-and-exercise-programs-for-copd"
+    },
+    {
+      "name": "Exercises to Reduce Plantar Fasciitis",
+      "url": "https://www.webmd.com/fitness-exercise/what-can-i-do-plantar-fasciitis"
+    },
+    {
+      "name": "Exercising with Osteoarthritis",
+      "url": "https://www.webmd.com/arthritis/exercise-treat-arthritis"
+    },
+    {
+      "name": "Exocrine Pancreatic Insufficiency",
+      "url": "https://www.webmd.com/digestive-disorders/exocrine-pancreatic-insufficiency"
+    },
+    {
+      "name": "Expanded Rubella Syndrome",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-rubella"
+    },
+    {
+      "name": "Extragonadal Germ Cell Tumors",
+      "url": "https://www.webmd.com/cancer/germ-cell-tumors"
+    },
+    {
+      "name": "Eye Health",
+      "url": "https://www.webmd.com/eye-health/default.htm"
+    },
+    {
+      "name": "Fabry Disease",
+      "url": "https://www.webmd.com/children/fabry-disease"
+    },
+    {
+      "name": "Factitious Disorder by Proxy",
+      "url": "https://www.webmd.com/mental-health/munchausen-by-proxy"
+    },
+    {
+      "name": "Fahr Disease",
+      "url": "https://www.webmd.com/brain/basal-ganglia-calcification"
+    },
+    {
+      "name": "Fainting",
+      "url": "https://www.webmd.com/brain/understanding-fainting-basics"
+    },
+    {
+      "name": "Fall Prevention",
+      "url": "https://www.webmd.com/parkinsons-disease/preventing-falls"
+    },
+    {
+      "name": "Fallot's Tetralogy",
+      "url": "https://www.webmd.com/heart-disease/tetralogy-fallot"
+    },
+    {
+      "name": "Familial Adenomatous Polyposis",
+      "url": "https://www.webmd.com/colorectal-cancer/inherited-colorectal-cancer"
+    },
+    {
+      "name": "Familial Congestive Cardiomyopathy",
+      "url": "https://www.webmd.com/heart-disease/muscle-cardiomyopathy"
+    },
+    {
+      "name": "Familial Jaundice",
+      "url": "https://www.webmd.com/children/what-is-gilbert-syndrome"
+    },
+    {
+      "name": "Familial Primary Pulmonary Hypertension",
+      "url": "https://www.webmd.com/lung/pulmonary-arterial-hypertension"
+    },
+    {
+      "name": "Fatty Liver Disease",
+      "url": "https://www.webmd.com/fatty-liver-disease/default.htm"
+    },
+    {
+      "name": "Fibrodysplasia Ossificans Progressiva",
+      "url": "https://www.webmd.com/children/what-is-fop"
+    },
+    {
+      "name": "Fibroids",
+      "url": "https://www.webmd.com/women/uterine-fibroids/uterine-fibroids"
+    },
+    {
+      "name": "Fibromyalgia",
+      "url": "https://www.webmd.com/fibromyalgia/default.htm"
+    },
+    {
+      "name": "Fibrosing Cholangitis",
+      "url": "https://www.webmd.com/digestive-disorders/primary-sclerosing-cholangitis-facts"
+    },
+    {
+      "name": "Fibrous Cavernositis",
+      "url": "https://www.webmd.com/men/peyronies-disease"
+    },
+    {
+      "name": "Fibrous Interstitial Pneumonia",
+      "url": "https://www.webmd.com/lung/interstitial-lung-disease"
+    },
+    {
+      "name": "Fine-Needle Aspiration",
+      "url": "https://www.webmd.com/a-to-z-guides/fine-needle-aspiration"
+    },
+    {
+      "name": "Finger Sucking",
+      "url": "https://www.webmd.com/parenting/baby/pacifiers-or-thumbsucking-which-is-worse"
+    },
+    {
+      "name": "First Aid",
+      "url": "https://www.webmd.com/first-aid/default.htm"
+    },
+    {
+      "name": "First Menstrual Period",
+      "url": "https://www.webmd.com/teens/all-about-menstruation"
+    },
+    {
+      "name": "Fitz Hugh Curtis Syndrome",
+      "url": "https://www.webmd.com/women/what-is-fitz-hugh-curtis-syndrome"
+    },
+    {
+      "name": "Flatfoot (Pes Planus)",
+      "url": "https://www.webmd.com/pain-management/what-are-fallen-arches"
+    },
+    {
+      "name": "Flesh-Eating Bacteria",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/necrotizing-fasciitis-flesh-eating-bacteria"
+    },
+    {
+      "name": "Folic Acid Deficiency Anemia",
+      "url": "https://www.webmd.com/a-to-z-guides/folic-acid-deficiency-anemia"
+    },
+    {
+      "name": "Follicular Lymphoma",
+      "url": "https://www.webmd.com/cancer/lymphoma/follicular-lymphoma"
+    },
+    {
+      "name": "Folliculitis",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/cysts-lumps-bumps"
+    },
+    {
+      "name": "Fong Disease",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/picture-of-nail-patella-syndrome"
+    },
+    {
+      "name": "Food & Recipes",
+      "url": "https://www.webmd.com/food-recipes/default.htm"
+    },
+    {
+      "name": "Food Addiction",
+      "url": "https://www.webmd.com/mental-health/eating-disorders/binge-eating-disorder/mental-health-food-addiction"
+    },
+    {
+      "name": "Food Allergies",
+      "url": "https://www.webmd.com/allergies/food-allergy-intolerances"
+    },
+    {
+      "name": "Food Poisoning",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/default.htm"
+    },
+    {
+      "name": "Food Poisoning, Prevention",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/preventing-food-poisoning"
+    },
+    {
+      "name": "Foot Care for People with Diabetes",
+      "url": "https://www.webmd.com/diabetes/caring-feet"
+    },
+    {
+      "name": "Foot Pain (Plantar Fasciitis)",
+      "url": "https://www.webmd.com/fitness-exercise/understanding-plantar-fasciitis-basics"
+    },
+    {
+      "name": "Foot Problems Slideshow",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-common-foot-problems"
+    },
+    {
+      "name": "Foot Problems: Finding the right shoes",
+      "url": "https://www.webmd.com/arthritis/arthritis-footcare-shoes"
+    },
+    {
+      "name": "Fournier Disease",
+      "url": "https://www.webmd.com/diabetes/what-is-fourniers-gangrene"
+    },
+    {
+      "name": "Fractured Rib",
+      "url": "https://www.webmd.com/a-to-z-guides/do-i-have-a-broken-rib"
+    },
+    {
+      "name": "Fractures",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-fractures-basic-information"
+    },
+    {
+      "name": "Fragile X Syndrome",
+      "url": "https://www.webmd.com/children/what-is-fragile-x-syndrome"
+    },
+    {
+      "name": "Frostbite",
+      "url": "https://www.webmd.com/first-aid/understanding-frostbite-basics"
+    },
+    {
+      "name": "Frozen Shoulder",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-a-frozen-shoulder"
+    },
+    {
+      "name": "Fruit: Exotic Fruits Slideshow",
+      "url": "https://www.webmd.com/food-recipes/ss/slideshow-exotic-fruits"
+    },
+    {
+      "name": "Fulminating Hyperpyrexia",
+      "url": "https://www.webmd.com/schizophrenia/what-is-neuroleptic-malignant-syndrome"
+    },
+    {
+      "name": "Functional Ovarian Cysts",
+      "url": "https://www.webmd.com/women/ovarian-cysts"
+    },
+    {
+      "name": "Funeral Planning",
+      "url": "https://www.webmd.com/palliative-care/getting-your-affairs-in-order"
+    },
+    {
+      "name": "Fungal Nail Infections",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/nail-problems"
+    },
+    {
+      "name": "Furrowed Tongue",
+      "url": "https://www.webmd.com/oral-health/fissured-tongue"
+    },
+    {
+      "name": "Galactocerebrosidase (GALC) Deficiency",
+      "url": "https://www.webmd.com/children/what-are-lysosomal-storage-disorders"
+    },
+    {
+      "name": "Galactorrhea-Amenorrhea Syndrome",
+      "url": "https://www.webmd.com/cancer/prolactinoma-tumor"
+    },
+    {
+      "name": "Gallbladder Inflammation",
+      "url": "https://www.webmd.com/digestive-disorders/what-is-cholecystitis"
+    },
+    {
+      "name": "Gallstones",
+      "url": "https://www.webmd.com/digestive-disorders/gallstones"
+    },
+    {
+      "name": "Ganglions",
+      "url": "https://www.webmd.com/a-to-z-guides/ganglion-cyst"
+    },
+    {
+      "name": "Gangliosidosis GM2 Type 2",
+      "url": "https://www.webmd.com/parenting/baby/what-is-tay-sachs-disease"
+    },
+    {
+      "name": "Ganser Syndrome",
+      "url": "https://www.webmd.com/mental-health/ganser-syndrome"
+    },
+    {
+      "name": "Gargoylism",
+      "url": "https://www.webmd.com/children/mucopolysaccharidosis-i-mps-i"
+    },
+    {
+      "name": "Gas (Flatus)",
+      "url": "https://www.webmd.com/heartburn-gerd/gas-causes-treatments"
+    },
+    {
+      "name": "Gastric Cancer",
+      "url": "https://www.webmd.com/cancer/stomach-gastric-cancer"
+    },
+    {
+      "name": "Gastrinoma",
+      "url": "https://www.webmd.com/digestive-disorders/zollinger-ellison-syndrome"
+    },
+    {
+      "name": "Gastritis",
+      "url": "https://www.webmd.com/digestive-disorders/digestive-diseases-gastritis"
+    },
+    {
+      "name": "Gastroenteritis",
+      "url": "https://www.webmd.com/digestive-disorders/gastroenteritis"
+    },
+    {
+      "name": "Gastroesophageal Reflux Disease (GERD)",
+      "url": "https://www.webmd.com/heartburn-gerd/heartburn-and-gerd"
+    },
+    {
+      "name": "Gastrointestinal Stromal Tumors",
+      "url": "https://www.webmd.com/cancer/soft-tissue-sarcoma"
+    },
+    {
+      "name": "Gastroparesis",
+      "url": "https://www.webmd.com/digestive-disorders/digestive-disorders-gastroparesis"
+    },
+    {
+      "name": "Gastroschisis",
+      "url": "https://www.webmd.com/children/what-is-gastroschisis"
+    },
+    {
+      "name": "Gaucher Disease",
+      "url": "https://www.webmd.com/children/gauchers-disease-symptoms-causes-treatments"
+    },
+    {
+      "name": "Gayet-Wernicke Syndrome",
+      "url": "https://www.webmd.com/brain/wernicke-korsakoff-syndrome-facts"
+    },
+    {
+      "name": "Genital Herpes",
+      "url": "https://www.webmd.com/genital-herpes/default.htm"
+    },
+    {
+      "name": "Geographic Atrophy",
+      "url": "https://www.webmd.com/eye-health/macular-degeneration/geographic-atrophy"
+    },
+    {
+      "name": "GHD",
+      "url": "https://www.webmd.com/a-to-z-guides/growth-hormone-stimulation-test"
+    },
+    {
+      "name": "Giant Cell Arteritis",
+      "url": "https://www.webmd.com/heart-disease/arteritis-giant-cell"
+    },
+    {
+      "name": "Giant Cell Glioblastoma, Astrocytoma",
+      "url": "https://www.webmd.com/cancer/brain-cancer/what-is-astrocytoma"
+    },
+    {
+      "name": "Giant Cell Glioblastoma, Multiforme",
+      "url": "https://www.webmd.com/cancer/brain-cancer/what-is-glioblastoma"
+    },
+    {
+      "name": "Giant Cyst of the Retina",
+      "url": "https://www.webmd.com/eye-health/what-is-retinoschisis"
+    },
+    {
+      "name": "Giant Urticaria",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/hives-urticaria-angioedema"
+    },
+    {
+      "name": "Giardiasis",
+      "url": "https://www.webmd.com/digestive-disorders/giardiasis-overview"
+    },
+    {
+      "name": "Gingivitis",
+      "url": "https://www.webmd.com/oral-health/gingivitis-periodontal-disease"
+    },
+    {
+      "name": "Ginkgo Biloba",
+      "url": "https://www.webmd.com/vitamins-and-supplements/supplement-guide-ginkgo-biloba"
+    },
+    {
+      "name": "Giving a Child an Epinephrine Shot",
+      "url": "https://www.webmd.com/allergies/video/basics-epinephrine-shot"
+    },
+    {
+      "name": "Giving Insulin Shots to a Child",
+      "url": "https://www.webmd.com/diabetes/type-1-diabetes-health-care-team"
+    },
+    {
+      "name": "Giving Insulin Shots to Adults",
+      "url": "https://www.webmd.com/diabetes/give-yourself-insulin-shot"
+    },
+    {
+      "name": "Giving Yourself an Epinephrine Shot",
+      "url": "https://www.webmd.com/allergies/anaphylaxis"
+    },
+    {
+      "name": "Glaucoma",
+      "url": "https://www.webmd.com/eye-health/glaucoma-eyes"
+    },
+    {
+      "name": "Glioma-Polyposis Syndrome",
+      "url": "https://www.webmd.com/colorectal-cancer/lynch-syndrome-get-the-facts"
+    },
+    {
+      "name": "Glossitis Areata Migrans",
+      "url": "https://www.webmd.com/oral-health/geographic-tongue"
+    },
+    {
+      "name": "Glucosamine and Chondroitin",
+      "url": "https://www.webmd.com/osteoarthritis/arthritis-supplements"
+    },
+    {
+      "name": "Gluten-Free Diet Slideshow",
+      "url": "https://www.webmd.com/digestive-disorders/celiac-disease/ss/slideshow-gluten-free-diet"
+    },
+    {
+      "name": "Goiter",
+      "url": "https://www.webmd.com/women/understanding-goiter-basics"
+    },
+    {
+      "name": "Graft versus Host Disease",
+      "url": "https://www.webmd.com/cancer/multiple-myeloma/graft-versus-host-disease"
+    },
+    {
+      "name": "Granuloma Fungoides",
+      "url": "https://www.webmd.com/cancer/mycosis-fungoides"
+    },
+    {
+      "name": "Grave's Disease",
+      "url": "https://www.webmd.com/women/understanding-graves-disease-basics"
+    },
+    {
+      "name": "Grief and Grieving",
+      "url": "https://www.webmd.com/balance/grieving-and-stages-of-grief"
+    },
+    {
+      "name": "Group B Streptococcal Infections in Newborns",
+      "url": "https://www.webmd.com/parenting/baby/baby-group-b-strep"
+    },
+    {
+      "name": "Group B Streptococcal Septicemia of the Newborn",
+      "url": "https://www.webmd.com/cold-and-flu/understanding-sore-throat-basics"
+    },
+    {
+      "name": "Grover's Disease",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/grover-disease"
+    },
+    {
+      "name": "Guenther Porphyria",
+      "url": "https://www.webmd.com/a-to-z-guides/porphyria-symptoms-causes-treatment"
+    },
+    {
+      "name": "Guided Imagery",
+      "url": "https://www.webmd.com/parkinsons-disease/parkinsons-guided-imagery"
+    },
+    {
+      "name": "Guillain-Barre Syndrome",
+      "url": "https://www.webmd.com/brain/what-is-guillain-barre"
+    },
+    {
+      "name": "Guttate Scleroderma, Lichen Sclerosus Type",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/lichen-sclerosis"
+    },
+    {
+      "name": "H. Pylori",
+      "url": "https://www.webmd.com/digestive-disorders/h-pylori-helicobacter-pylori"
+    },
+    {
+      "name": "Hair Loss",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/hair-loss/default.htm"
+    },
+    {
+      "name": "Hair-Pulling Syndrome",
+      "url": "https://www.webmd.com/anxiety-panic/guide/trichotillomania"
+    },
+    {
+      "name": "Hammer, Claw and Mallet Toes",
+      "url": "https://www.webmd.com/pain-management/whats-wrong-with-my-toe"
+    },
+    {
+      "name": "Hammertoes",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-hammertoes-basics"
+    },
+    {
+      "name": "Hand-Foot-and-Mouth Disease",
+      "url": "https://www.webmd.com/children/guide/hand-foot-mouth-disease"
+    },
+    {
+      "name": "Hand-Washing",
+      "url": "https://www.webmd.com/cold-and-flu/cold-guide/cold-prevention-hand-washing"
+    },
+    {
+      "name": "Hashimoto's Thyroiditis",
+      "url": "https://www.webmd.com/women/hashimotos-thyroiditis-symptoms-causes-treatments"
+    },
+    {
+      "name": "Hay Fever",
+      "url": "https://www.webmd.com/allergies/understanding-hay-fever-basics"
+    },
+    {
+      "name": "Headaches, Tension-type",
+      "url": "https://www.webmd.com/migraines-headaches/tension-headaches"
+    },
+    {
+      "name": "Headaches/Migraines",
+      "url": "https://www.webmd.com/migraines-headaches/default.htm"
+    },
+    {
+      "name": "Healing Touch",
+      "url": "https://www.webmd.com/pain-management/guide/pain-management-alternative-therapy"
+    },
+    {
+      "name": "Hearing Loss",
+      "url": "https://www.webmd.com/a-to-z-guides/hearing-loss-causes"
+    },
+    {
+      "name": "Heart Disease",
+      "url": "https://www.webmd.com/heart-disease/default.htm"
+    },
+    {
+      "name": "Heart Failure",
+      "url": "https://www.webmd.com/heart-disease/heart-failure/default.htm"
+    },
+    {
+      "name": "Heart Health",
+      "url": "https://www.webmd.com/heart/default.htm"
+    },
+    {
+      "name": "Heartburn/GERD",
+      "url": "https://www.webmd.com/heartburn-gerd/default.htm"
+    },
+    {
+      "name": "Helping Your ADHD Child Succeed In School",
+      "url": "https://www.webmd.com/add-adhd/childhood-adhd/adhd-how-to-help-your-child-succeed-at-school"
+    },
+    {
+      "name": "Hemophilia A",
+      "url": "https://www.webmd.com/a-to-z-guides/hemophilia-a"
+    },
+    {
+      "name": "Hemophilia B",
+      "url": "https://www.webmd.com/a-to-z-guides/hemophilia-b-medref"
+    },
+    {
+      "name": "Hemorrhagic Telangiectasia, Hereditary (HHT)",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/picture-of-hereditary-hemorrhagic-telangiectasia"
+    },
+    {
+      "name": "Henoch-Schonlein Purpura (HSP)",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/henoch-schonlein-purpura-causes-symptoms-treatment"
+    },
+    {
+      "name": "Hepatitis",
+      "url": "https://www.webmd.com/hepatitis/default.htm"
+    },
+    {
+      "name": "Hepatocellular Carcinoma",
+      "url": "https://www.webmd.com/cancer/hepatocellular-carcinoma"
+    },
+    {
+      "name": "HER2-Positive Breast Cancer",
+      "url": "https://www.webmd.com/breast-cancer/her2"
+    },
+    {
+      "name": "Hereditary Nonspherocytic Hemolytic Anemia (HNHA)",
+      "url": "https://www.webmd.com/a-to-z-guides/autoimmune-hemolytic-anemia"
+    },
+    {
+      "name": "Hiatal Hernia",
+      "url": "https://www.webmd.com/digestive-disorders/hiatal-hernia"
+    },
+    {
+      "name": "Hiccups",
+      "url": "https://www.webmd.com/digestive-disorders/why-do-i-hiccup"
+    },
+    {
+      "name": "Hidradenitis Suppurativa",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/hidradenitis-suppurativa"
+    },
+    {
+      "name": "High Altitude Illness",
+      "url": "https://www.webmd.com/a-to-z-guides/altitude-sickness"
+    },
+    {
+      "name": "High Blood Pressure (Hypertension)",
+      "url": "https://www.webmd.com/hypertension-high-blood-pressure/default.htm"
+    },
+    {
+      "name": "High Potassium",
+      "url": "https://www.webmd.com/a-to-z-guides/what-does-potassium-do-body"
+    },
+    {
+      "name": "High Triglycerides",
+      "url": "https://www.webmd.com/cholesterol-management/guide/diseases-linked-high-cholesterol"
+    },
+    {
+      "name": "High-Protein Diet Slideshow",
+      "url": "https://www.webmd.com/diet/ss/slideshow-high-protein-diet"
+    },
+    {
+      "name": "Hip Dysplasia, Congenital",
+      "url": "https://www.webmd.com/children/children-hip-pain-top-causes"
+    },
+    {
+      "name": "Hip Fracture",
+      "url": "https://www.webmd.com/osteoporosis/what-happens-when-you-have-a-hip-fracture"
+    },
+    {
+      "name": "Hirsutism",
+      "url": "https://www.webmd.com/women/guide/hirsutism-hair-women"
+    },
+    {
+      "name": "Histiocytosis X",
+      "url": "https://www.webmd.com/cancer/cancer-langerhans-cell-histiocytosis"
+    },
+    {
+      "name": "Hives",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/hives-urticaria-angioedema"
+    },
+    {
+      "name": "HLHS",
+      "url": "https://www.webmd.com/parenting/baby/hypoplastic-left-heart"
+    },
+    {
+      "name": "Hodgkin's Disease",
+      "url": "https://www.webmd.com/cancer/lymphoma/understanding-hodgkins-disease-basic-information"
+    },
+    {
+      "name": "Hole in the Heart",
+      "url": "https://www.webmd.com/heart-disease/ventricular-septal-defect"
+    },
+    {
+      "name": "Home Blood Sugar Monitoring",
+      "url": "https://www.webmd.com/diabetes/guide/how-test-blood-glucose"
+    },
+    {
+      "name": "Home Blood Sugar Monitoring with Gestational Diabetes",
+      "url": "https://www.webmd.com/diabetes/gestational-diabetes-guide/normal-blood-sugar-levels-chart-pregnant-women"
+    },
+    {
+      "name": "Home Health Supplies",
+      "url": "https://www.webmd.com/healthy-aging/home-health-care-tips"
+    },
+    {
+      "name": "Homeopathy",
+      "url": "https://www.webmd.com/balance/what-is-homeopathy"
+    },
+    {
+      "name": "Homocystinuria",
+      "url": "https://www.webmd.com/children/what-is-homocystinuria"
+    },
+    {
+      "name": "Homozygous Familial Hypercholesterolemia",
+      "url": "https://www.webmd.com/cholesterol-management/homozygous-familial-hypercholesterolemia"
+    },
+    {
+      "name": "Hormone Therapy for Endometriosis",
+      "url": "https://www.webmd.com/women/endometriosis/understanding-endometriosis-treatment"
+    },
+    {
+      "name": "Horner's Syndrome",
+      "url": "https://www.webmd.com/eye-health/horner-syndrome"
+    },
+    {
+      "name": "Hospice",
+      "url": "https://www.webmd.com/palliative-care/journeys-end-active-dying"
+    },
+    {
+      "name": "Hospice Care",
+      "url": "https://www.webmd.com/palliative-care/hospice-care"
+    },
+    {
+      "name": "How to Allergy-Proof Your Environment",
+      "url": "https://www.webmd.com/allergies/allergy-proof-your-environment"
+    },
+    {
+      "name": "How to Avoid Outdoor Allergy Triggers",
+      "url": "https://www.webmd.com/allergies/outdoor-allergies-in-kids"
+    },
+    {
+      "name": "How to Control Itching from Chickenpox",
+      "url": "https://www.webmd.com/children/understanding-chickenpox-treatment"
+    },
+    {
+      "name": "How to Improve Your Sleep",
+      "url": "https://www.webmd.com/pain-management/sleep-comfortably"
+    },
+    {
+      "name": "How to Measure Peak Expiratory Flow",
+      "url": "https://www.webmd.com/asthma/guide/peak-flow-meter"
+    },
+    {
+      "name": "How to Remove a Tick",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/how-to-remove-a-tick"
+    },
+    {
+      "name": "How to Stop Drinking Alcohol",
+      "url": "https://www.webmd.com/mental-health/addiction/alcohol-use-disorder-treatments"
+    },
+    {
+      "name": "How to Stop Thumb-Sucking",
+      "url": "https://www.webmd.com/baby/features/breaking-thumb-sucking-habit"
+    },
+    {
+      "name": "How to Use a Condom",
+      "url": "https://teens.webmd.com/boys/how-to-use-a-condom"
+    },
+    {
+      "name": "HPV/Genital Warts",
+      "url": "https://www.webmd.com/sexual-conditions/hpv-genital-warts/default.htm"
+    },
+    {
+      "name": "Human Cyclic Neutropenia",
+      "url": "https://www.webmd.com/a-to-z-guides/neutropenia-causes-symptoms-treatment"
+    },
+    {
+      "name": "Humor Therapy",
+      "url": "https://www.webmd.com/balance/features/give-your-body-boost-with-laughter"
+    },
+    {
+      "name": "Hunter Syndrome",
+      "url": "https://www.webmd.com/children/hunter-syndrome-mps-ii"
+    },
+    {
+      "name": "Hutchinson-Gilford Progeria Syndrome (HGPS)",
+      "url": "https://www.webmd.com/children/progeria"
+    },
+    {
+      "name": "Hydatidiform Mole",
+      "url": "https://www.webmd.com/baby/what-is-molar-pregnancy"
+    },
+    {
+      "name": "Hydrocele",
+      "url": "https://www.webmd.com/parenting/baby/hydrocele-baby-boys"
+    },
+    {
+      "name": "Hydrocephalus",
+      "url": "https://www.webmd.com/brain/hydrocephalus-facts"
+    },
+    {
+      "name": "Hydrocephalus, Congenital",
+      "url": "https://www.webmd.com/baby/congenital-hydrocephalus"
+    },
+    {
+      "name": "Hydrotherapy",
+      "url": "https://www.webmd.com/pain-management/when-use-heat-ice"
+    },
+    {
+      "name": "Hypercalcemia-Supravalvar Aortic Stenosis",
+      "url": "https://www.webmd.com/children/williams-syndrome"
+    },
+    {
+      "name": "Hyperemesis Gravidarum",
+      "url": "https://www.webmd.com/baby/what-is-hyperemesis-gravidarum"
+    },
+    {
+      "name": "Hypoparathyroidism",
+      "url": "https://www.webmd.com/women/hypoparathyroidism-rare"
+    },
+    {
+      "name": "Hypotonia-Hypomentia-Hypogonadism-Obesity Syndrome (HHHO)",
+      "url": "https://www.webmd.com/parenting/baby/prader-willi-syndrome"
+    },
+    {
+      "name": "IBS (Irritable Bowel Syndrome)",
+      "url": "https://www.webmd.com/ibs/digestive-diseases-irritable-bowel-syndrome"
+    },
+    {
+      "name": "IBS-D",
+      "url": "https://www.webmd.com/ibs/what-is-ibs-d"
+    },
+    {
+      "name": "IC",
+      "url": "https://www.webmd.com/urinary-incontinence-oab/interstitial-cystitis"
+    },
+    {
+      "name": "ICD",
+      "url": "https://www.webmd.com/parenting/baby/what-is-torticollis"
+    },
+    {
+      "name": "Identifying and avoiding migraine triggers",
+      "url": "https://www.webmd.com/migraines-headaches/avoiding-migraine-triggers"
+    },
+    {
+      "name": "Identifying Asthma Triggers",
+      "url": "https://www.webmd.com/asthma/asthma-triggers"
+    },
+    {
+      "name": "Idiopathic Pulmonary Fibrosis",
+      "url": "https://www.webmd.com/lung/what-is-idiopathic-pulmonary-fibrosis"
+    },
+    {
+      "name": "IgA Nephropathy",
+      "url": "https://www.webmd.com/a-to-z-guides/iga-nephropathy-shc"
+    },
+    {
+      "name": "Immunizations",
+      "url": "https://www.webmd.com/parenting/baby/vaccination-schedule-what-to-expect"
+    },
+    {
+      "name": "Impaired Glucose Tolerance",
+      "url": "https://www.webmd.com/diabetes/what-is-prediabetes"
+    },
+    {
+      "name": "Impetigo",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-impetigo-basics"
+    },
+    {
+      "name": "Incision Care After Surgery",
+      "url": "https://www.webmd.com/first-aid/surgical-wound-care"
+    },
+    {
+      "name": "Incontinence in Men",
+      "url": "https://www.webmd.com/urinary-incontinence-oab/causes-urinary-incontinence-men"
+    },
+    {
+      "name": "Incontinence/OAB",
+      "url": "https://www.webmd.com/urinary-incontinence-oab/default.htm"
+    },
+    {
+      "name": "Indolent Systemic Mastocytosis",
+      "url": "https://www.webmd.com/cancer/chronic-myeloproliferative-disorders"
+    },
+    {
+      "name": "Infantile Myoclonic Encephalopathy",
+      "url": "https://www.webmd.com/children/west-syndrome-symptoms"
+    },
+    {
+      "name": "Infectious Chorea",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-rheumatic-fever-basics"
+    },
+    {
+      "name": "Infectious Mononucleosis",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-mononucleosis-causes"
+    },
+    {
+      "name": "Infertility",
+      "url": "https://www.webmd.com/infertility-and-reproduction/default.htm"
+    },
+    {
+      "name": "Inherited Lipodystrophy",
+      "url": "https://www.webmd.com/children/inherited-lipodystrophy"
+    },
+    {
+      "name": "Insomnia",
+      "url": "https://www.webmd.com/sleep-disorders/insomnia-symptoms-and-causes"
+    },
+    {
+      "name": "Iron Deficiency Anemia",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-anemia-basics"
+    },
+    {
+      "name": "Iron Overload Anemia",
+      "url": "https://www.webmd.com/a-to-z-guides/sideroblastic-anemia"
+    },
+    {
+      "name": "Irritable Bowel Syndrome (IBS)",
+      "url": "https://www.webmd.com/ibs/default.htm"
+    },
+    {
+      "name": "Islet Cell Cancer",
+      "url": "https://www.webmd.com/cancer/pancreatic-cancer/digestive-diseases-pancreatic-cancer"
+    },
+    {
+      "name": "ITP",
+      "url": "https://www.webmd.com/a-to-z-guides/idiopathic-thrombocytopenic-purpura"
+    },
+    {
+      "name": "Jaundice",
+      "url": "https://www.webmd.com/parenting/baby/digestive-diseases-jaundice"
+    },
+    {
+      "name": "Jaundice in Newborns (Hyperbilirubinemia)",
+      "url": "https://www.webmd.com/parenting/baby/understanding-newborn-jaundice-basics"
+    },
+    {
+      "name": "Job Stress Management",
+      "url": "https://www.webmd.com/balance/guide/causes-of-stress"
+    },
+    {
+      "name": "Jock Itch",
+      "url": "https://www.webmd.com/men/causes-and-prevent-jock-itch"
+    },
+    {
+      "name": "Jumping Frenchmen of Maine",
+      "url": "https://dictionary.webmd.com/jumping-frenchmen-of-maine"
+    },
+    {
+      "name": "Juvenile Retinoschisis",
+      "url": "https://www.webmd.com/eye-health/qa/what-is-juvenile-retinoschisis"
+    },
+    {
+      "name": "Kava",
+      "url": "https://www.webmd.com/vitamins-and-supplements/what-is-kava-kava"
+    },
+    {
+      "name": "Kawasaki Disease",
+      "url": "https://www.webmd.com/children/what-is-kawasaki-disease"
+    },
+    {
+      "name": "KC",
+      "url": "https://www.webmd.com/eye-health/eye-health-keratoconus"
+    },
+    {
+      "name": "Kegel Exercises",
+      "url": "https://www.webmd.com/women/guide/kegels-should-i-do-them"
+    },
+    {
+      "name": "Keratosis Seborrheic",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/seborrheic-dermatitis-medref"
+    },
+    {
+      "name": "Kernicterus",
+      "url": "https://www.webmd.com/children/what-is-kernicterus"
+    },
+    {
+      "name": "Kidney Disease, Chronic",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-kidney-disease-basic-information"
+    },
+    {
+      "name": "Kidney Disease, Diabetic",
+      "url": "https://www.webmd.com/diabetes/guide/diabetes-kidney-disease"
+    },
+    {
+      "name": "Kidney Disease, Hypertension-Related",
+      "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/hypertension-related-kidney-disease"
+    },
+    {
+      "name": "Kidney Failure, Acute",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-acute-kidney-failure"
+    },
+    {
+      "name": "Kidney Stones",
+      "url": "https://www.webmd.com/kidney-stones/default.htm"
+    },
+    {
+      "name": "Klinefelter Syndrome",
+      "url": "https://www.webmd.com/men/klinefelter-syndrome"
+    },
+    {
+      "name": "Klippel-Trenaunay-Weber Syndrome",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/picture-of-klippel-trenaunay-weber-syndrome"
+    },
+    {
+      "name": "Knee Pain",
+      "url": "https://www.webmd.com/pain-management/knee-pain/default.htm"
+    },
+    {
+      "name": "Knee Replacement Surgery",
+      "url": "https://www.webmd.com/osteoarthritis/guide/knee-replacement-surgery"
+    },
+    {
+      "name": "Kneecap Instability",
+      "url": "https://www.webmd.com/pain-management/knee-pain/kneecap-problems-symptoms"
+    },
+    {
+      "name": "Kratom",
+      "url": "https://www.webmd.com/mental-health/addiction/kratom-facts"
+    },
+    {
+      "name": "Lab Results",
+      "url": "https://www.webmd.com/a-to-z-guides/lab-test-results"
+    },
+    {
+      "name": "Labor and Delivery",
+      "url": "https://www.webmd.com/baby/labor-signs"
+    },
+    {
+      "name": "Labyrinthine Positional Nystagmus",
+      "url": "https://www.webmd.com/eye-health/nystagmus"
+    },
+    {
+      "name": "Labyrinthitis",
+      "url": "https://www.webmd.com/brain/what-is-labyrinthitis"
+    },
+    {
+      "name": "Lactose Intolerance",
+      "url": "https://www.webmd.com/digestive-disorders/digestive-diseases-lactose-intolerance"
+    },
+    {
+      "name": "LAM",
+      "url": "https://www.webmd.com/lung/lam-lung-disease-lymphangioleiomyomatosis"
+    },
+    {
+      "name": "LASIK",
+      "url": "https://www.webmd.com/connect-to-care/lasik/default.htm"
+    },
+    {
+      "name": "Laxatives",
+      "url": "https://www.webmd.com/digestive-disorders/understanding-constipation-treatment"
+    },
+    {
+      "name": "Lazy Eye (Amblyopia)",
+      "url": "https://www.webmd.com/eye-health/amblyopia-child-eyes"
+    },
+    {
+      "name": "Lennox-Gastaut Syndrome",
+      "url": "https://www.webmd.com/epilepsy/lennox-gastaut"
+    },
+    {
+      "name": "Lichen Annularis",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/common-rashes"
+    },
+    {
+      "name": "Lichen Planus Sclerosus Atrophicus",
+      "url": "https://www.webmd.com/oral-health/oral-lichen-planus"
+    },
+    {
+      "name": "Lichen Psoriasis",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/skin-conditions-psoriasis"
+    },
+    {
+      "name": "Life Support",
+      "url": "https://www.webmd.com/palliative-care/what-is-life-support"
+    },
+    {
+      "name": "Lingua Fissurata",
+      "url": "https://www.webmd.com/oral-health/guide/fissured-tongue"
+    },
+    {
+      "name": "Linguofacial Dyskinesia",
+      "url": "https://www.webmd.com/mental-health/tardive-dyskinesia"
+    },
+    {
+      "name": "Lipoma",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-a-lipoma"
+    },
+    {
+      "name": "Liposarcoma",
+      "url": "https://www.webmd.com/cancer/what-is-liposarcoma"
+    },
+    {
+      "name": "Lissencephaly",
+      "url": "https://www.webmd.com/brain/what-is-lissencephaly"
+    },
+    {
+      "name": "Listeriosis",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/what-is-listeria"
+    },
+    {
+      "name": "Liver Cancer",
+      "url": "https://www.webmd.com/cancer/understanding-liver-cancer-basic-information"
+    },
+    {
+      "name": "Liver Cancer Treatment",
+      "url": "https://www.webmd.com/cancer/understanding-liver-cancer-treatment"
+    },
+    {
+      "name": "Lou Gehrig's Disease",
+      "url": "https://www.webmd.com/brain/understanding-als-basics"
+    },
+    {
+      "name": "Low Back Pain",
+      "url": "https://www.webmd.com/back-pain/guide/pain-management-back-pain"
+    },
+    {
+      "name": "Low Back Pain Deciding About MRI",
+      "url": "https://www.webmd.com/back-pain/back-pain-spinal-mri"
+    },
+    {
+      "name": "Low Back Pain Exercises",
+      "url": "https://www.webmd.com/pain-management/do-back-exercises"
+    },
+    {
+      "name": "Low Blood Pressure",
+      "url": "https://www.webmd.com/heart/understanding-low-blood-pressure-basics"
+    },
+    {
+      "name": "Low Potassium Syndrome",
+      "url": "https://www.webmd.com/digestive-disorders/hypokalemia"
+    },
+    {
+      "name": "Low-Carb Diets for Weight Loss",
+      "url": "https://www.webmd.com/diet/guide/high-protein-low-carbohydrate-diets"
+    },
+    {
+      "name": "Low-Dose Aspirin Therapy",
+      "url": "https://www.webmd.com/heart-disease/guide/aspirin-therapy"
+    },
+    {
+      "name": "Lumbar Pain",
+      "url": "https://www.webmd.com/back-pain/understanding-back-pain-basics"
+    },
+    {
+      "name": "Lung Cancer",
+      "url": "https://www.webmd.com/lung-cancer/default.htm"
+    },
+    {
+      "name": "Lung Carcinoid Tumors",
+      "url": "https://www.webmd.com/lung-cancer/lung-carcinoid-tumors"
+    },
+    {
+      "name": "Lung Disease/Respiratory Problems",
+      "url": "https://www.webmd.com/lung/default.htm"
+    },
+    {
+      "name": "Lung Nocardiosis",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-nocardiosis"
+    },
+    {
+      "name": "Lupus",
+      "url": "https://www.webmd.com/lupus/default.htm"
+    },
+    {
+      "name": "Lyme Disease",
+      "url": "https://www.webmd.com/rheumatoid-arthritis/arthritis-lyme-disease"
+    },
+    {
+      "name": "Lymph Node Cancer",
+      "url": "https://www.webmd.com/cancer/lymphoma/understanding-non-hodgkins-lymphoma-basics"
+    },
+    {
+      "name": "Lymphedema",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-lymphedema"
+    },
+    {
+      "name": "Macular Degeneration",
+      "url": "https://www.webmd.com/eye-health/macular-degeneration/default.htm"
+    },
+    {
+      "name": "Male Sexual Problems",
+      "url": "https://www.webmd.com/sexual-conditions/mens-sexual-problems"
+    },
+    {
+      "name": "Malignant Appendical Tumor",
+      "url": "https://www.webmd.com/digestive-disorders/pseudomyxoma-peritonei-facts"
+    },
+    {
+      "name": "Malignant Mesothelioma",
+      "url": "https://www.webmd.com/lung/mesothelioma-causes-and-symptoms"
+    },
+    {
+      "name": "Malocclusion and Orthodontics",
+      "url": "https://www.webmd.com/oral-health/crooked-teeth-misaligned-bites"
+    },
+    {
+      "name": "Mammary Paget's Disease",
+      "url": "https://www.webmd.com/breast-cancer/pagets-nipple-disease"
+    },
+    {
+      "name": "Managing a Headache",
+      "url": "https://www.webmd.com/migraines-headaches/learning-cope-migraines-headaches"
+    },
+    {
+      "name": "Managing a Manic Episode",
+      "url": "https://www.webmd.com/depression/bipolar-disorder-manic-depression"
+    },
+    {
+      "name": "Managing Eating Problems After a Stroke",
+      "url": "https://www.webmd.com/stroke/food-appetite-problems-after-stroke"
+    },
+    {
+      "name": "Managing Hot Flashes",
+      "url": "https://www.webmd.com/menopause/menopause-hot-flashes"
+    },
+    {
+      "name": "Managing Job Stress",
+      "url": "https://www.webmd.com/balance/causes-of-stress"
+    },
+    {
+      "name": "Managing Morning Sickness",
+      "url": "https://www.webmd.com/baby/morning-sickness-pregnant"
+    },
+    {
+      "name": "Managing your Feelings of Grief",
+      "url": "https://www.webmd.com/depression/depression-grief"
+    },
+    {
+      "name": "Mandibular Ameloblastoma",
+      "url": "https://www.webmd.com/cancer/ameloblastoma-tumor"
+    },
+    {
+      "name": "Manic Depression in Children and Teens",
+      "url": "https://www.webmd.com/bipolar-disorder/bipolar-children-teens"
+    },
+    {
+      "name": "Manic-Depressive Disorder",
+      "url": "https://www.webmd.com/bipolar-disorder/mental-health-bipolar-disorder"
+    },
+    {
+      "name": "Manual Therapy or Bodywork",
+      "url": "https://www.webmd.com/pain-management/pain-management-treatment-overview"
+    },
+    {
+      "name": "Medicare",
+      "url": "https://www.webmd.com/health-insurance/default.htm"
+    },
+    {
+      "name": "Melanoma/Skin Cancer",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/default.htm"
+    },
+    {
+      "name": "Menopause",
+      "url": "https://www.webmd.com/menopause/default.htm"
+    },
+    {
+      "name": "Men's Health",
+      "url": "https://www.webmd.com/men/default.htm"
+    },
+    {
+      "name": "Mental Health",
+      "url": "https://www.webmd.com/mental-health/default.htm"
+    },
+    {
+      "name": "Meralgia Paresthetica",
+      "url": "https://www.webmd.com/diabetes/meralgia-paresthetica"
+    },
+    {
+      "name": "Metabolic Dysfunction-Associated Steatohepatitis (MASH)",
+      "url": "https://www.webmd.com/fatty-liver-disease/nonalcoholic-steatohepatitis"
+    },
+    {
+      "name": "Metabolic Syndrome",
+      "url": "https://www.webmd.com/heart/metabolic-syndrome/default.htm"
+    },
+    {
+      "name": "Metastatic Melanoma",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/metastatic-melanoma"
+    },
+    {
+      "name": "Microangiopathic Hemolytic Anemia",
+      "url": "https://www.webmd.com/a-to-z-guides/thrombocytopenia-symptoms-causes-treatments"
+    },
+    {
+      "name": "Middle Ear Infection",
+      "url": "https://www.webmd.com/cold-and-flu/ear-infection/understanding-otitis-media-basics"
+    },
+    {
+      "name": "Milk Allergy",
+      "url": "https://www.webmd.com/allergies/milk-allergy"
+    },
+    {
+      "name": "Milk Thistle",
+      "url": "https://www.webmd.com/fatty-liver-disease/milk-thistle-benefits-and-side-effects"
+    },
+    {
+      "name": "Mini-Stroke (TIA)",
+      "url": "https://www.webmd.com/stroke/what-to-know-about-a-transient-ischemic-attack-tia"
+    },
+    {
+      "name": "Miscarriage",
+      "url": "https://www.webmd.com/baby/pregnancy-miscarriage"
+    },
+    {
+      "name": "Misophonia",
+      "url": "https://www.webmd.com/mental-health/what-is-misophonia"
+    },
+    {
+      "name": "Missed Period",
+      "url": "https://www.webmd.com/women/why-is-my-period-so-random"
+    },
+    {
+      "name": "Mitchell Disease",
+      "url": "https://www.webmd.com/diabetes/burning-feet-causes-treatments"
+    },
+    {
+      "name": "Mitral Valve Regurgitation",
+      "url": "https://www.webmd.com/heart-disease/what-is-mitral-valve-regurgitation"
+    },
+    {
+      "name": "Mixed Connective Tissue Disease (MCTD)",
+      "url": "https://www.webmd.com/a-to-z-guides/connective-tissue-disease"
+    },
+    {
+      "name": "Moles",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/moles-freckles-skin-tags"
+    },
+    {
+      "name": "Molluscum Contagiosum",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/molluscum-contagium"
+    },
+    {
+      "name": "Monitoring your Blood Pressure at home",
+      "url": "https://www.webmd.com/hypertension-high-blood-pressure/hypertension-home-monitoring"
+    },
+    {
+      "name": "Morgagni-Turner-Albright Syndrome",
+      "url": "https://www.webmd.com/children/what-is-turner-syndrome"
+    },
+    {
+      "name": "Morvan Disease -- Syringomyelia",
+      "url": "https://www.webmd.com/brain/what-is-syringomyelia"
+    },
+    {
+      "name": "Mountain Fever",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ticks-and-the-diseases-they-spread"
+    },
+    {
+      "name": "Mouth (Oral) Cancer",
+      "url": "https://www.webmd.com/oral-health/oral-cancer"
+    },
+    {
+      "name": "MRSA",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-mrsa"
+    },
+    {
+      "name": "MS (Multiple Sclerosis)",
+      "url": "https://www.webmd.com/multiple-sclerosis/default.htm"
+    },
+    {
+      "name": "MSA",
+      "url": "https://www.webmd.com/parkinsons-disease/parkinsons-plus-syndromes"
+    },
+    {
+      "name": "Multiple Endocrine Deficiency Syndrome",
+      "url": "https://www.webmd.com/diabetes/endocrine-system-disorders"
+    },
+    {
+      "name": "Multiple Lentigines Syndrome",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/picture-of-lentigines"
+    },
+    {
+      "name": "Multiple Myeloma",
+      "url": "https://www.webmd.com/cancer/multiple-myeloma/multiple-myeloma-symptoms-causes-treatment"
+    },
+    {
+      "name": "Multiple Peripheral Neuritis",
+      "url": "https://www.webmd.com/brain/understanding-peripheral-neuropathy-basics"
+    },
+    {
+      "name": "Multiple Pregnancy: Twins or More",
+      "url": "https://www.webmd.com/baby/risks-linked-with-twin-births"
+    },
+    {
+      "name": "Mumps",
+      "url": "https://www.webmd.com/children/what-are-the-mumps"
+    },
+    {
+      "name": "Muscular Dystrophies",
+      "url": "https://www.webmd.com/children/what-is-muscular-dystrophy"
+    },
+    {
+      "name": "Myelodysplastic Syndrome (MDS)",
+      "url": "https://www.webmd.com/cancer/lymphoma/myelodysplastic-syndrome-causes-symptoms-treatment"
+    },
+    {
+      "name": "Nail Fungus",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/fungal-nail-infections"
+    },
+    {
+      "name": "Nail-Biting",
+      "url": "https://www.webmd.com/a-to-z-guides/stop-nail-biting-tips"
+    },
+    {
+      "name": "Narcolepsy",
+      "url": "https://www.webmd.com/sleep-disorders/narcolepsy"
+    },
+    {
+      "name": "Nasal Septal Perforation Repair",
+      "url": "https://www.webmd.com/allergies/nasal-septum-surgery"
+    },
+    {
+      "name": "Nasopharyngeal Cancer",
+      "url": "https://www.webmd.com/cancer/nasopharyngeal-cancer"
+    },
+    {
+      "name": "Naturopathic Medicine",
+      "url": "https://www.webmd.com/balance/what-is-naturopathic-medicine"
+    },
+    {
+      "name": "Nausea",
+      "url": "https://www.webmd.com/digestive-disorders/digestive-diseases-nausea-vomiting"
+    },
+    {
+      "name": "Navicular Fracture of the Wrist",
+      "url": "https://www.webmd.com/a-to-z-guides/colles-fracture"
+    },
+    {
+      "name": "NDI",
+      "url": "https://www.webmd.com/diabetes/what-is-diabetes-insipidus"
+    },
+    {
+      "name": "Nearsightedness (Myopia)",
+      "url": "https://www.webmd.com/eye-health/nearsightedness-myopia"
+    },
+    {
+      "name": "Neck Pain",
+      "url": "https://www.webmd.com/pain-management/neck-shoulder"
+    },
+    {
+      "name": "Necrotizing Enterocolitis",
+      "url": "https://www.webmd.com/parenting/baby/what-is-necrotizing-enterocolitis"
+    },
+    {
+      "name": "Nephrocarcinoma",
+      "url": "https://www.webmd.com/cancer/renal-cell-carcinoma"
+    },
+    {
+      "name": "Nephropathy Diabetic",
+      "url": "https://www.webmd.com/diabetes/diabetes-kidney-disease"
+    },
+    {
+      "name": "Nicotine Withdrawal",
+      "url": "https://www.webmd.com/smoking-cessation/understanding-nicotine-withdrawal-basics"
+    },
+    {
+      "name": "Night Blindness",
+      "url": "https://www.webmd.com/eye-health/night-blindness"
+    },
+    {
+      "name": "Night Eating",
+      "url": "https://www.webmd.com/sleep-disorders/sleep-related-eating-disorders"
+    },
+    {
+      "name": "Nitroglycerin for Chest Pain",
+      "url": "https://www.webmd.com/heart-disease/nitroglycerin-chest-pain"
+    },
+    {
+      "name": "Nocturnal Enuresis",
+      "url": "https://www.webmd.com/sleep-disorders/bedwetting-causes"
+    },
+    {
+      "name": "Noninfectious Uveitis",
+      "url": "https://www.webmd.com/eye-health/noninfectious-uveitis"
+    },
+    {
+      "name": "Nonmelanoma Skin Cancer",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/nonmelanoma-treatments"
+    },
+    {
+      "name": "Non-Small Cell Lung Cancer",
+      "url": "https://www.webmd.com/lung-cancer/non-small-cell-lung-cancer"
+    },
+    {
+      "name": "Nontraditional Medicine",
+      "url": "https://www.webmd.com/balance/understanding-alternative-medicine"
+    },
+    {
+      "name": "Noonan Syndrome",
+      "url": "https://www.webmd.com/children/noonan-syndrome"
+    },
+    {
+      "name": "Normal Menstrual Cycle",
+      "url": "https://www.webmd.com/women/normal-period"
+    },
+    {
+      "name": "Noroviruses",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/norovirus-symptoms-and-treatment"
+    },
+    {
+      "name": "Nose Fracture",
+      "url": "https://www.webmd.com/a-to-z-guides/is-my-nose-broken"
+    },
+    {
+      "name": "Nosebleed Stopping",
+      "url": "https://www.webmd.com/first-aid/nosebleeds-causes-and-treatments"
+    },
+    {
+      "name": "NSAIDs",
+      "url": "https://www.webmd.com/arthritis/features/pain-relief-how-nsaids-work"
+    },
+    {
+      "name": "Nursery Equipment Safety Checklist",
+      "url": "https://www.webmd.com/baby/setting-up-nursery"
+    },
+    {
+      "name": "Nutritional Rickets",
+      "url": "https://www.webmd.com/diet/vitamin-d-deficiency"
+    },
+    {
+      "name": "Obesity",
+      "url": "https://www.webmd.com/obesity/what-obesity-is"
+    },
+    {
+      "name": "Obsessive-Compulsive Disorder (OCD)",
+      "url": "https://www.webmd.com/mental-health/obsessive-compulsive-disorder"
+    },
+    {
+      "name": "Obstetric Panel",
+      "url": "https://www.webmd.com/baby/blood-tests"
+    },
+    {
+      "name": "Obstructive Hypertrophic Cardiomyopathy",
+      "url": "https://www.webmd.com/heart-disease/hypertrophic-cardiomyopathy"
+    },
+    {
+      "name": "Obstructive Sleep Apnea",
+      "url": "https://www.webmd.com/sleep-disorders/sleep-apnea/understanding-obstructive-sleep-apnea-syndrome"
+    },
+    {
+      "name": "Occupational Therapy",
+      "url": "https://www.webmd.com/parkinsons-disease/physical-occupational-therapy"
+    },
+    {
+      "name": "Olecranon Bursitis",
+      "url": "https://www.webmd.com/arthritis/olecranon-bursitis"
+    },
+    {
+      "name": "Oophorectomy",
+      "url": "https://www.webmd.com/ovarian-cancer/ovaries-removal-surgery"
+    },
+    {
+      "name": "Opportunistic Infections",
+      "url": "https://www.webmd.com/hiv-aids/aids-hiv-opportunistic-infections-stay-healthier"
+    },
+    {
+      "name": "Opthalmoneuromyelitis",
+      "url": "https://www.webmd.com/brain/neuromyelitis-optica"
+    },
+    {
+      "name": "Oral Health",
+      "url": "https://www.webmd.com/oral-health/default.htm"
+    },
+    {
+      "name": "Organ Transplant",
+      "url": "https://www.webmd.com/a-to-z-guides/organ-transplant-overview"
+    },
+    {
+      "name": "Organic Foods Slideshow",
+      "url": "https://www.webmd.com/food-recipes/ss/slideshow-to-buy-or-not-to-buy-organic"
+    },
+    {
+      "name": "Orthodontics",
+      "url": "https://www.webmd.com/oral-health/braces-and-retainers"
+    },
+    {
+      "name": "Osgood Schlatter Condition",
+      "url": "https://www.webmd.com/teens/osgood-schlatter-disease"
+    },
+    {
+      "name": "Osteoporosis",
+      "url": "https://www.webmd.com/osteoporosis/default.htm"
+    },
+    {
+      "name": "Outpatient Services",
+      "url": "https://www.webmd.com/health-insurance/terms/ambulatory-patient-services"
+    },
+    {
+      "name": "Ovarian Cancer Center",
+      "url": "https://www.webmd.com/ovarian-cancer/default.htm"
+    },
+    {
+      "name": "Ovarian Epithelial Cancer",
+      "url": "https://www.webmd.com/ovarian-cancer/understanding-ovarian-cancer-basics"
+    },
+    {
+      "name": "Ovarian Hyperthecosis",
+      "url": "https://www.webmd.com/women/what-is-pcos"
+    },
+    {
+      "name": "Overactive Thyroid",
+      "url": "https://www.webmd.com/a-to-z-guides/causes-hyperthyroidism"
+    },
+    {
+      "name": "Over-the-Counter Medications (OTC)",
+      "url": "https://www.webmd.com/arthritis/arthritis-pain-relief"
+    },
+    {
+      "name": "Ovulation Calendar",
+      "url": "https://www.webmd.com/baby/healthtool-ovulation-calculator-old"
+    },
+    {
+      "name": "Pain Management",
+      "url": "https://www.webmd.com/pain-management/default.htm"
+    },
+    {
+      "name": "Palliative Care",
+      "url": "https://www.webmd.com/palliative-care/default.htm"
+    },
+    {
+      "name": "Pancreatic Cancer",
+      "url": "https://www.webmd.com/cancer/pancreatic-cancer/default.htm"
+    },
+    {
+      "name": "Parenting Center",
+      "url": "https://www.webmd.com/parenting/default.htm"
+    },
+    {
+      "name": "Parkinson's Disease Center",
+      "url": "https://www.webmd.com/parkinsons-disease/default.htm"
+    },
+    {
+      "name": "Paroxysmal Nocturnal Hemoglobinuria (PNH)",
+      "url": "https://www.webmd.com/a-to-z-guides/paroxysmal-nocturnal-hemoglobinuria-pnh"
+    },
+    {
+      "name": "Pericarditis",
+      "url": "https://www.webmd.com/heart-disease/pericarditis-symptoms-causes-treatments"
+    },
+    {
+      "name": "Pets",
+      "url": "https://www.webmd.com/pets/default.htm"
+    },
+    {
+      "name": "Phobias",
+      "url": "https://www.webmd.com/anxiety-panic/specific-phobias"
+    },
+    {
+      "name": "Physical Allergy Urticaria",
+      "url": "https://www.webmd.com/allergies/understanding-hives-basics"
+    },
+    {
+      "name": "PID (Pelvic Inflammatory Disease)",
+      "url": "https://www.webmd.com/women/what-is-pelvic-inflammatory-disease"
+    },
+    {
+      "name": "Placebo",
+      "url": "https://www.webmd.com/pain-management/what-is-the-placebo-effect"
+    },
+    {
+      "name": "Plaque",
+      "url": "https://www.webmd.com/oral-health/plaque-and-your-teeth"
+    },
+    {
+      "name": "Plasmapheresis",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-anemia-treatment"
+    },
+    {
+      "name": "Pleura",
+      "url": "https://www.webmd.com/lung/picture-of-the-lungs"
+    },
+    {
+      "name": "Pleuritis",
+      "url": "https://www.webmd.com/lung/understanding-pleurisy-basics"
+    },
+    {
+      "name": "PMS",
+      "url": "https://www.webmd.com/women/pms/default.htm"
+    },
+    {
+      "name": "Pollen",
+      "url": "https://www.webmd.com/allergies/pollen_allergies_overview"
+    },
+    {
+      "name": "Polycythemia Vera",
+      "url": "https://www.webmd.com/cancer/polycythemia-vera"
+    },
+    {
+      "name": "Polyp",
+      "url": "https://www.webmd.com/colorectal-cancer/colorectal-polyps-cancer"
+    },
+    {
+      "name": "Pompe Disease",
+      "url": "https://www.webmd.com/a-to-z-guides/pompe-disease"
+    },
+    {
+      "name": "Porcelain Inlay",
+      "url": "https://www.webmd.com/oral-health/dental-health-fillings"
+    },
+    {
+      "name": "Postcoital Test",
+      "url": "https://www.webmd.com/infertility-and-reproduction/fertility-tests-for-women1"
+    },
+    {
+      "name": "Postpartum Depression",
+      "url": "https://www.webmd.com/depression/postpartum-depression/default.htm"
+    },
+    {
+      "name": "Posttraumatic Stress Disorder (PTSD)",
+      "url": "https://www.webmd.com/mental-health/post-traumatic-stress-disorder"
+    },
+    {
+      "name": "Posttraumatic Stress Syndrome",
+      "url": "https://www.webmd.com/mental-health/post-traumatic-stress-disorder-ptsd"
+    },
+    {
+      "name": "Postural Tremor",
+      "url": "https://www.webmd.com/multiple-sclerosis/managing-related-tremors"
+    },
+    {
+      "name": "Potassium (K)",
+      "url": "https://www.webmd.com/diet/supplement-guide-potassium"
+    },
+    {
+      "name": "Preeclampsia and High Blood Pressure",
+      "url": "https://www.webmd.com/baby/what-is-preeclampsia"
+    },
+    {
+      "name": "Pregnancy Center",
+      "url": "https://www.webmd.com/baby/default.htm"
+    },
+    {
+      "name": "Pregnancy with Asthma",
+      "url": "https://www.webmd.com/asthma/pregnancy-asthma"
+    },
+    {
+      "name": "Pregnancy: Fetal Development Slideshow",
+      "url": "https://www.webmd.com/baby/ss/cm/slideshow-fetal-development"
+    },
+    {
+      "name": "Premature Infant",
+      "url": "https://www.webmd.com/baby/understanding-preterm-labor-birth-basics"
+    },
+    {
+      "name": "Premenstrual Syndrome (PMS)",
+      "url": "https://www.webmd.com/women/pms/what-is-pms"
+    },
+    {
+      "name": "Presbyopia",
+      "url": "https://www.webmd.com/eye-health/eye-health-presbyopia-eyes"
+    },
+    {
+      "name": "Preterm Labor",
+      "url": "https://www.webmd.com/baby/premature-labor"
+    },
+    {
+      "name": "Prevention of Liver Cancer",
+      "url": "https://www.webmd.com/cancer/understanding-liver-cancer-prevention"
+    },
+    {
+      "name": "Primary Immunodeficiency",
+      "url": "https://www.webmd.com/children/primary-immunodeficiency"
+    },
+    {
+      "name": "Prostate Cancer",
+      "url": "https://www.webmd.com/prostate-cancer/default.htm"
+    },
+    {
+      "name": "Prostate Englargement/BPH",
+      "url": "https://www.webmd.com/men/prostate-enlargement-bph/default.htm"
+    },
+    {
+      "name": "Psoriasis",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/psoriasis/default.htm"
+    },
+    {
+      "name": "Phakomatosis TS",
+      "url": "https://www.webmd.com/children/tuberous-sclerosis"
+    },
+    {
+      "name": "Phenylketonuria (PKU)",
+      "url": "https://www.webmd.com/children/pku-test"
+    },
+    {
+      "name": "Physical Fitness",
+      "url": "https://www.webmd.com/fitness-exercise/fitness-how-tos"
+    },
+    {
+      "name": "Physical Therapy",
+      "url": "https://www.webmd.com/pain-management/what-is-physical-therapy"
+    },
+    {
+      "name": "Pick's Disease",
+      "url": "https://www.webmd.com/alzheimers/picks-disease"
+    },
+    {
+      "name": "Piercings",
+      "url": "https://www.webmd.com/teens/teen-girls-body-ear-piercing"
+    },
+    {
+      "name": "Pilonidal Disease",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/pilondial-cyst"
+    },
+    {
+      "name": "Pneumonia",
+      "url": "https://www.webmd.com/lung/understanding-pneumonia-basics"
+    },
+    {
+      "name": "Polymyositis",
+      "url": "https://www.webmd.com/arthritis/polymyositis"
+    },
+    {
+      "name": "Pornography Addiction",
+      "url": "https://www.webmd.com/mental-health/addiction/porn-addiction-possible"
+    },
+    {
+      "name": "Positron Emission Tomography (PET)",
+      "url": "https://www.webmd.com/a-to-z-guides/pet-scan"
+    },
+    {
+      "name": "PPS (Post-Polio Syndrome)",
+      "url": "https://www.webmd.com/children/vaccines/polio-vaccine-ipv"
+    },
+    {
+      "name": "Prayer",
+      "url": "https://www.webmd.com/balance/features/can-prayer-heal"
+    },
+    {
+      "name": "Premature Ejaculation",
+      "url": "https://www.webmd.com/sex/what-is-premature-ejaculation"
+    },
+    {
+      "name": "Premature Ovarian Failure",
+      "url": "https://www.webmd.com/menopause/premature-ovarian-failure"
+    },
+    {
+      "name": "Prescription Medications",
+      "url": "https://www.webmd.com/healthy-aging/medication-safety-tips-dos-and-donts"
+    },
+    {
+      "name": "Presenile Tremor Syndrome",
+      "url": "https://www.webmd.com/brain/essential-tremor-basics"
+    },
+    {
+      "name": "Preventing Carpal Tunnel Syndrome",
+      "url": "https://www.webmd.com/pain-management/carpal-tunnel/how-can-i-prevent-carpal-tunnel-syndrome"
+    },
+    {
+      "name": "Preventing Falls",
+      "url": "https://www.webmd.com/healthy-aging/prevent-slips-falls"
+    },
+    {
+      "name": "Preventing Medical Errors",
+      "url": "https://www.webmd.com/a-to-z-guides/hospital-medication-errors-reducing-your-risk"
+    },
+    {
+      "name": "Preventing Poisoning in Young Children",
+      "url": "https://www.webmd.com/children/prevent-poisoning-home"
+    },
+    {
+      "name": "Primary Ciliary Dyskinesia",
+      "url": "https://www.webmd.com/children/primary-ciliary-dyskinesia"
+    },
+    {
+      "name": "PVD (Peripheral Vascular Disease)",
+      "url": "https://www.webmd.com/heart-disease/peripheral-artery-disease-of-the-legs"
+    },
+    {
+      "name": "Quitting Smoking",
+      "url": "https://www.webmd.com/smoking-cessation/default.htm"
+    },
+    {
+      "name": "Rabies",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-rabies"
+    },
+    {
+      "name": "Rabson-Mendenhall Syndrome",
+      "url": "https://www.webmd.com/a-to-z-guides/rabson-mendenhall-syndrome"
+    },
+    {
+      "name": "Radial Head Subluxation",
+      "url": "https://www.webmd.com/children/nursemaid-elbow"
+    },
+    {
+      "name": "Radiation Disease",
+      "url": "https://www.webmd.com/cancer/radiation-sickness-facts"
+    },
+    {
+      "name": "Radiation Therapy for Cancer",
+      "url": "https://www.webmd.com/cancer/what-to-expect-from-radiation-therapy"
+    },
+    {
+      "name": "Radon",
+      "url": "https://www.webmd.com/lung-cancer/radon-health-effects"
+    },
+    {
+      "name": "Raising Fit Kids",
+      "url": "https://www.webmd.com/parenting/raising-fit-kids/default.htm"
+    },
+    {
+      "name": "Rash",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/common-rashes"
+    },
+    {
+      "name": "Raynaud's Phenomenon",
+      "url": "https://www.webmd.com/arthritis/raynauds-phenomenon"
+    },
+    {
+      "name": "Razor Bumps",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-folliculitis"
+    },
+    {
+      "name": "Reactive Attachment Disorder",
+      "url": "https://www.webmd.com/mental-health/mental-health-reactive-attachment-disorder"
+    },
+    {
+      "name": "Reconstructive Surgery",
+      "url": "https://www.webmd.com/a-to-z-guides/reconstructive-surgery"
+    },
+    {
+      "name": "Rectal Prolapse",
+      "url": "https://www.webmd.com/digestive-disorders/what-is-rectal-prolapse"
+    },
+    {
+      "name": "Recurrent Multiple Myeloma",
+      "url": "https://www.webmd.com/cancer/multiple-myeloma/relapsed-recurrent-multiple-myeloma"
+    },
+    {
+      "name": "Recurrent Pericarditis",
+      "url": "https://www.webmd.com/heart-disease/cm/recurrent-pericarditis"
+    },
+    {
+      "name": "Red Measles",
+      "url": "https://www.webmd.com/children/vaccines/what-is-measles"
+    },
+    {
+      "name": "Reducing Medical Costs",
+      "url": "https://www.webmd.com/health-insurance/insurance-tips-for-er"
+    },
+    {
+      "name": "Reducing Medication Costs",
+      "url": "https://www.webmd.com/healthy-aging/features/saving-money-on-your-prescription-drugs-good-and-bad-ideas"
+    },
+    {
+      "name": "Refractory Epilepsy",
+      "url": "https://www.webmd.com/epilepsy/refractory-epilepsy"
+    },
+    {
+      "name": "Rehabilitation for a Meniscus Tear",
+      "url": "https://www.webmd.com/pain-management/knee-pain/physical-therapy-meniscus-tear"
+    },
+    {
+      "name": "Rehabilitation for Multiple Sclerosis",
+      "url": "https://www.webmd.com/multiple-sclerosis/features/ms-rehab-benefits"
+    },
+    {
+      "name": "Rh Sensitization During Pregnancy",
+      "url": "https://www.webmd.com/baby/rh-factor"
+    },
+    {
+      "name": "RICE",
+      "url": "https://www.webmd.com/first-aid/rice-method-injuries"
+    },
+    {
+      "name": "Ringworm",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-you-should-know-about-ringworm"
+    },
+    {
+      "name": "Ringworm Slideshow",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/cm/slideshow-ringworm"
+    },
+    {
+      "name": "RLF",
+      "url": "https://www.webmd.com/eye-health/retinopathy-prematurity-facts"
+    },
+    {
+      "name": "RLS (Restless Legs Syndrome)",
+      "url": "https://www.webmd.com/brain/restless-legs-syndrome/restless-legs-syndrome-rls"
+    },
+    {
+      "name": "Rosacea",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-rosacea-basics"
+    },
+    {
+      "name": "Roseola",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-roseola"
+    },
+    {
+      "name": "Rotator Cuff Disorders",
+      "url": "https://www.webmd.com/pain-management/what-is-my-rotator-cuff"
+    },
+    {
+      "name": "Rotator Cuff Rehabilition",
+      "url": "https://www.webmd.com/pain-management/physical-therapy-rotator-cuff-tear"
+    },
+    {
+      "name": "RP",
+      "url": "https://www.webmd.com/eye-health/what-is-retinitis-pigmentosa"
+    },
+    {
+      "name": "RS",
+      "url": "https://www.webmd.com/brain/autism/rett-syndrome"
+    },
+    {
+      "name": "RSV Infection",
+      "url": "https://www.webmd.com/lung/rsv-in-babies"
+    },
+    {
+      "name": "Ruptured Disc",
+      "url": "https://www.webmd.com/pain-management/do-i-have-a-herniated-disk"
+    },
+    {
+      "name": "Sacroiliac Joint Pain",
+      "url": "https://www.webmd.com/back-pain/si-joint-back-pain"
+    },
+    {
+      "name": "SAD (Seasonal Affective Disorder)",
+      "url": "https://www.webmd.com/depression/guide/seasonal-affective-disorder"
+    },
+    {
+      "name": "S-adenosylmethinoine (SAM-e)",
+      "url": "https://www.webmd.com/diet/supplement-guide-sam-e"
+    },
+    {
+      "name": "Safe Food Handling",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/food-poisoning-basics"
+    },
+    {
+      "name": "Safe Sex",
+      "url": "https://www.webmd.com/sexual-conditions/sexual-health-stds"
+    },
+    {
+      "name": "Safety Tips When Taking Anticoagulants",
+      "url": "https://www.webmd.com/dvt/dvt-treatment-tips-for-taking-heparin-and-warfarin-safely"
+    },
+    {
+      "name": "Salivary Gland Infection",
+      "url": "https://www.webmd.com/oral-health/guide/salivary-gland-problems-infections-swelling"
+    },
+    {
+      "name": "Salmonellosis",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/what-is-salmonella"
+    },
+    {
+      "name": "Sarcoid of Boeck",
+      "url": "https://www.webmd.com/lung/understanding-sarcoidosis-basics"
+    },
+    {
+      "name": "Sarcoidosis",
+      "url": "https://www.webmd.com/lung/arthritis-sarcoidosis"
+    },
+    {
+      "name": "SARS (Severe Acute Respiratory Syndrome)",
+      "url": "https://www.webmd.com/lung/lung-what-is-sars"
+    },
+    {
+      "name": "Saw Palmetto",
+      "url": "https://www.webmd.com/men/prostate-enlargement-bph/supplement-guide-saw-palmetto"
+    },
+    {
+      "name": "Scabies",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/scabies-do-you-have-them"
+    },
+    {
+      "name": "Scalded Skin Syndrome",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/life-threatening-skin-rashes"
+    },
+    {
+      "name": "Scarlet Fever",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-scarlet-fever-basics"
+    },
+    {
+      "name": "Scars",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/scars"
+    },
+    {
+      "name": "Schizophrenia",
+      "url": "https://www.webmd.com/schizophrenia/default.htm"
+    },
+    {
+      "name": "Secondary Psychosis",
+      "url": "https://www.webmd.com/schizophrenia/guide/what-is-psychosis"
+    },
+    {
+      "name": "Severe Hearing Loss",
+      "url": "https://www.webmd.com/a-to-z-guides/severe-hearing-loss"
+    },
+    {
+      "name": "Sex",
+      "url": "https://www.webmd.com/sex-relationships/default.htm"
+    },
+    {
+      "name": "Sexual Conditions",
+      "url": "https://www.webmd.com/sexual-conditions/default.htm"
+    },
+    {
+      "name": "Sexual Health",
+      "url": "https://www.webmd.com/sex/default.htm"
+    },
+    {
+      "name": "Shaken Baby Syndrome",
+      "url": "https://www.webmd.com/parenting/baby/shaken-baby-syndrome"
+    },
+    {
+      "name": "Shigellosis",
+      "url": "https://www.webmd.com/food-recipes/food-poisoning/what-is-shigella"
+    },
+    {
+      "name": "Shingles",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/shingles/default.htm"
+    },
+    {
+      "name": "Shock",
+      "url": "https://www.webmd.com/a-to-z-guides/hypovolemic-shock"
+    },
+    {
+      "name": "Short Bowel Syndrome",
+      "url": "https://www.webmd.com/ibd-crohns-disease/crohns-disease/short-bowel-syndrome"
+    },
+    {
+      "name": "Sickle Cell Crisis",
+      "url": "https://www.webmd.com/a-to-z-guides/sickle-cell-crisis"
+    },
+    {
+      "name": "Sitz Bath",
+      "url": "https://www.webmd.com/digestive-disorders/sitz-bath"
+    },
+    {
+      "name": "Sjogren's Syndrome",
+      "url": "https://www.webmd.com/a-to-z-guides/sjogrens-syndrome"
+    },
+    {
+      "name": "Skin Cancer Screening",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/melanoma-guide/understanding-skin-cancer-treatment"
+    },
+    {
+      "name": "Skin Cancer Slideshow",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/ss/skin-cancer-and-skin-lesions-overview"
+    },
+    {
+      "name": "Skin Cancer Treatment",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/detection-treatment-skin-cancer"
+    },
+    {
+      "name": "Skin Cancer, Nonmelanoma",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/skin-cancer-guide/nonmelanoma-treatments"
+    },
+    {
+      "name": "Skin Cancer, Squamous Cell Type",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/melanoma-guide/squamous-cell-carcinoma"
+    },
+    {
+      "name": "Skin Care Tips",
+      "url": "https://www.webmd.com/beauty/skin-care"
+    },
+    {
+      "name": "Skin Problems & Treatments",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/default.htm"
+    },
+    {
+      "name": "Skin Problems in Adults",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-common-adult-skin-problems"
+    },
+    {
+      "name": "Skin Protection from the Sun",
+      "url": "https://www.webmd.com/melanoma-skin-cancer/how-to-choose-susncreen"
+    },
+    {
+      "name": "Skin Tags",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/moles-freckles-skin-tags"
+    },
+    {
+      "name": "Sleep Apnea",
+      "url": "https://www.webmd.com/sleep-disorders/sleep-apnea/default.htm"
+    },
+    {
+      "name": "Sleep Disorders",
+      "url": "https://www.webmd.com/sleep-disorders/default.htm"
+    },
+    {
+      "name": "Sleep Epilepsy",
+      "url": "https://www.webmd.com/sleep-disorders/guide/narcolepsy"
+    },
+    {
+      "name": "Slipped Capital Femoral Epiphysis",
+      "url": "https://www.webmd.com/pain-management/hip-impingement-causes-treatments"
+    },
+    {
+      "name": "Small Intestine Cancer",
+      "url": "https://www.webmd.com/cancer/cancer-of-the-small-intestine"
+    },
+    {
+      "name": "Small Lymphocytic Lymphoma",
+      "url": "https://www.webmd.com/cancer/lymphoma/small-lymphocytic-lymphoma-cancer"
+    },
+    {
+      "name": "Smallpox",
+      "url": "https://www.webmd.com/a-to-z-guides/smallpox-causes-treatment"
+    },
+    {
+      "name": "Smoking and Life Span Calculator",
+      "url": "https://www.webmd.com/smoking-cessation/smoking-assessment/default.htm"
+    },
+    {
+      "name": "Snoring",
+      "url": "https://www.webmd.com/sleep-disorders/sleep-apnea/snoring"
+    },
+    {
+      "name": "Social Anxiety Disorder",
+      "url": "https://www.webmd.com/anxiety-panic/guide/mental-health-social-anxiety-disorder"
+    },
+    {
+      "name": "Soft Tissue Sarcoma",
+      "url": "https://www.webmd.com/cancer/sarcoma"
+    },
+    {
+      "name": "Spastic Colon",
+      "url": "https://www.webmd.com/ibs/guide/digestive-diseases-irritable-bowel-syndrome"
+    },
+    {
+      "name": "Specialists, Medical Care",
+      "url": "https://www.webmd.com/health-insurance/insurance-doctor-types"
+    },
+    {
+      "name": "Speech and Language Development",
+      "url": "https://www.webmd.com/parenting/recognizing-developmental-delays-your-child-ages-3-5"
+    },
+    {
+      "name": "Spider Bite, Brown Recluse",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/spider-bite-brown-recluse-spider-bite-treatment"
+    },
+    {
+      "name": "Spider Bites",
+      "url": "https://www.webmd.com/first-aid/understanding-insect-bites-spider-bites-basic-information"
+    },
+    {
+      "name": "Spider Veins",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/cosmetic-procedures-spider-veins"
+    },
+    {
+      "name": "Spina Bifida",
+      "url": "https://www.webmd.com/parenting/baby/spina-bifida"
+    },
+    {
+      "name": "Spinal Cord Injury",
+      "url": "https://www.webmd.com/pain-management/spinal-cord-injury"
+    },
+    {
+      "name": "Spinal Muscular Atrophy (SMA)",
+      "url": "https://www.webmd.com/brain/spinal-muscular-atrophy"
+    },
+    {
+      "name": "Spinal Stenosis",
+      "url": "https://www.webmd.com/back-pain/guide/spinal-stenosis"
+    },
+    {
+      "name": "Splenomegaly with Rheumatoid Arthritis",
+      "url": "https://www.webmd.com/rheumatoid-arthritis/felty-syndrome"
+    },
+    {
+      "name": "Splint Care Tips",
+      "url": "https://www.webmd.com/first-aid/firstaid-care-for-cast"
+    },
+    {
+      "name": "Splinter Removal",
+      "url": "https://www.webmd.com/first-aid/splinters-treatment"
+    },
+    {
+      "name": "Stage 4 Lung Cancer (Alk)",
+      "url": "https://www.webmd.com/lung-cancer/faq-stage-four-lung-cancer-with-alk"
+    },
+    {
+      "name": "Stress Management",
+      "url": "https://www.webmd.com/balance/stress-management/default.htm"
+    },
+    {
+      "name": "Stroke",
+      "url": "https://www.webmd.com/stroke/default.htm"
+    },
+    {
+      "name": "Subcortical Dementia",
+      "url": "https://www.webmd.com/stroke/guide/vascular-dementia"
+    },
+    {
+      "name": "Subendocardial Sclerosis",
+      "url": "https://www.webmd.com/heart-disease/guide/congenital-heart-disease"
+    },
+    {
+      "name": "Sucrose Intolerance",
+      "url": "https://www.webmd.com/allergies/common-food-intolerances"
+    },
+    {
+      "name": "Summer Skin Hazards",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/ss/slideshow-summer-skin-hazards"
+    },
+    {
+      "name": "Sunburn",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/sunburn"
+    },
+    {
+      "name": "Supraventricular Tachycardia",
+      "url": "https://www.webmd.com/heart-disease/atrial-fibrillation/what-is-supraventricular-tachycardia"
+    },
+    {
+      "name": "Surgery: What to Expect",
+      "url": "https://www.webmd.com/healthy-aging/what-expect-surgery"
+    },
+    {
+      "name": "Sweet Syndrome",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/sweet-syndrome-facts"
+    },
+    {
+      "name": "Swollen Lymph Nodes",
+      "url": "https://www.webmd.com/a-to-z-guides/swollen-glands"
+    },
+    {
+      "name": "Symmastia",
+      "url": "https://www.webmd.com/women/what-is-symmastia"
+    },
+    {
+      "name": "Syphilis",
+      "url": "https://www.webmd.com/sexual-conditions/syphilis"
+    },
+    {
+      "name": "Syphilis, Congenital",
+      "url": "https://www.webmd.com/sexual-conditions/types-stages-syphilis"
+    },
+    {
+      "name": "Talking With Your Teenager About Sex",
+      "url": "https://www.webmd.com/sex-relationships/guide/talking-to-your-kids-about-sex"
+    },
+    {
+      "name": "TB (Tuberculosis)",
+      "url": "https://www.webmd.com/lung/understanding-tuberculosis-basics"
+    },
+    {
+      "name": "TCOF1",
+      "url": "https://www.webmd.com/children/treacher-collins-syndrome"
+    },
+    {
+      "name": "Tea Tree Oil",
+      "url": "https://www.webmd.com/a-to-z-guides/supplement-guide-tea-tree-oil"
+    },
+    {
+      "name": "Teen Boys",
+      "url": "https://teens.webmd.com/boys/default.htm"
+    },
+    {
+      "name": "Teen Depression",
+      "url": "https://www.webmd.com/depression/childhood-depression"
+    },
+    {
+      "name": "Teen Girls",
+      "url": "https://teens.webmd.com/girls/default.htm"
+    },
+    {
+      "name": "Teens",
+      "url": "https://teens.webmd.com/default.htm"
+    },
+    {
+      "name": "Teething",
+      "url": "https://www.webmd.com/parenting/baby/teething-symptoms-remedies"
+    },
+    {
+      "name": "Temper Tantrums",
+      "url": "https://www.webmd.com/parenting/guide/preventing-temper-tantrums-in-children"
+    },
+    {
+      "name": "Temporary Blindness",
+      "url": "https://www.webmd.com/eye-health/temporary-blindness-short-term-vision-loss"
+    },
+    {
+      "name": "Temporomandibular (TM) Disorders",
+      "url": "https://www.webmd.com/oral-health/guide/temporomandibular-disorders-tmd"
+    },
+    {
+      "name": "Tendinitis",
+      "url": "https://www.webmd.com/fitness-exercise/arthritis-tendinitis"
+    },
+    {
+      "name": "Tenosynovitis",
+      "url": "https://www.webmd.com/arthritis/overview-tenosynovitis"
+    },
+    {
+      "name": "TENS",
+      "url": "https://www.webmd.com/back-pain/guide/electrothermal-therapy"
+    },
+    {
+      "name": "Thalassemia",
+      "url": "https://www.webmd.com/a-to-z-guides/what-is-thalassemia"
+    },
+    {
+      "name": "Thoracic Outlet Syndrome",
+      "url": "https://www.webmd.com/brain/thoracic-outlet-syndrome"
+    },
+    {
+      "name": "Thrombocytopenia, Essential",
+      "url": "https://www.webmd.com/a-to-z-guides/thrombocytopenia-causes-treatment"
+    },
+    {
+      "name": "Thrombophlebitis",
+      "url": "https://www.webmd.com/dvt/understanding-thrombophlebitis-basics"
+    },
+    {
+      "name": "Thrush",
+      "url": "https://www.webmd.com/oral-health/guide/what-is-thrush"
+    },
+    {
+      "name": "Thyroid Cancer",
+      "url": "https://www.webmd.com/cancer/what-is-thyroid-cancer"
+    },
+    {
+      "name": "Thyroid Disorders",
+      "url": "https://www.webmd.com/women/guide/understanding-thyroid-problems-basics"
+    },
+    {
+      "name": "Thyroid Nodules",
+      "url": "https://www.webmd.com/a-to-z-guides/what-are-thyroid-nodules"
+    },
+    {
+      "name": "Thyrotoxicosis",
+      "url": "https://www.webmd.com/women/thyrotoxicosis-hyperthyroidism"
+    },
+    {
+      "name": "TIA (Transient Ischemic Attack)",
+      "url": "https://www.webmd.com/stroke/what-is-tia"
+    },
+    {
+      "name": "Tic Douloureux",
+      "url": "https://www.webmd.com/a-to-z-guides/tic-douloureux"
+    },
+    {
+      "name": "Tick Bites",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/is-that-a-tick-bite"
+    },
+    {
+      "name": "Tietze Syndrome",
+      "url": "https://www.webmd.com/pain-management/tietze-syndrome"
+    },
+    {
+      "name": "Tinea Versicolor",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/tinea-versicolor-cause-symptoms-treatments"
+    },
+    {
+      "name": "Toe Fracture",
+      "url": "https://www.webmd.com/a-to-z-guides/did-i-break-a-toe"
+    },
+    {
+      "name": "Toilet Training",
+      "url": "https://www.webmd.com/parenting/baby/potty-training-when-to-start"
+    },
+    {
+      "name": "Tongue, Geographic",
+      "url": "https://www.webmd.com/oral-health/guide/geographic-tongue"
+    },
+    {
+      "name": "Tongue-Tie",
+      "url": "https://www.webmd.com/children/tongue-tie-babies"
+    },
+    {
+      "name": "Tonic Pupil Syndrome",
+      "url": "https://www.webmd.com/eye-health/eye-pupils-health"
+    },
+    {
+      "name": "Tonsillitis",
+      "url": "https://www.webmd.com/oral-health/understanding-tonsillitis-basics"
+    },
+    {
+      "name": "Tooth Decay",
+      "url": "https://www.webmd.com/oral-health/guide/tooth-decay-prevention"
+    },
+    {
+      "name": "Torch Infection",
+      "url": "https://www.webmd.com/children/what-is-torch-syndrome"
+    },
+    {
+      "name": "Torsion Dystonia",
+      "url": "https://www.webmd.com/brain/dystonia-causes-types-symptoms-and-treatments"
+    },
+    {
+      "name": "Tourette's Syndrome",
+      "url": "https://www.webmd.com/brain/tourettes-syndrome"
+    },
+    {
+      "name": "Toxic Shock Syndrome",
+      "url": "https://www.webmd.com/women/guide/understanding-toxic-shock-syndrome-basics"
+    },
+    {
+      "name": "Toxoplasmosis",
+      "url": "https://www.webmd.com/baby/toxoplasmosis"
+    },
+    {
+      "name": "Transthyretin Familial Amyloid Polyneuropathy",
+      "url": "https://www.webmd.com/brain/transthyretin-familial-amyloid-polyneuropathy"
+    },
+    {
+      "name": "Transverse Myelitis",
+      "url": "https://www.webmd.com/multiple-sclerosis/transverse-myelitis-facts"
+    },
+    {
+      "name": "Traumatic Brain Injury (Concussion)",
+      "url": "https://www.webmd.com/brain/concussion-traumatic-brain-injury-symptoms-causes-treatments"
+    },
+    {
+      "name": "Travel Health",
+      "url": "https://www.webmd.com/men/features/summer-travel-health-advice"
+    },
+    {
+      "name": "Traveler's Diarrhea",
+      "url": "https://www.webmd.com/digestive-disorders/travelers-diarrhea"
+    },
+    {
+      "name": "Trichomoniasis",
+      "url": "https://www.webmd.com/sexual-conditions/guide/trichomoniasis"
+    },
+    {
+      "name": "Typhoid",
+      "url": "https://www.webmd.com/a-to-z-guides/typhoid-fever"
+    },
+    {
+      "name": "Ulcerative Colitis",
+      "url": "https://www.webmd.com/ibd-crohns-disease/ulcerative-colitis/default.htm"
+    },
+    {
+      "name": "ULS (Upper Limb Spascity)",
+      "url": "https://www.webmd.com/brain/upper-limb-spasticity"
+    },
+    {
+      "name": "Umbilical Cord Care",
+      "url": "https://www.webmd.com/parenting/baby/baby-umbilical-cord"
+    },
+    {
+      "name": "Umbilical Hernia in Children",
+      "url": "https://www.webmd.com/parenting/baby/what-are-umbilical-hernias"
+    },
+    {
+      "name": "Uncircumcised Penis, Care and Cleaning",
+      "url": "https://www.webmd.com/parenting/baby/your-newborn-boys-genitals-care-of-penis"
+    },
+    {
+      "name": "Underactive Thyroid",
+      "url": "https://www.webmd.com/women/hypothyroidism-underactive-thyroid-symptoms-causes-treatments"
+    },
+    {
+      "name": "Undescended Testicle",
+      "url": "https://www.webmd.com/parenting/baby/what-is-an-undescended-testicle"
+    },
+    {
+      "name": "Urethral Cancer",
+      "url": "https://www.webmd.com/cancer/what-is-urethral-cancer"
+    },
+    {
+      "name": "Urinary Incontinence in Women",
+      "url": "https://www.webmd.com/urinary-incontinence-oab/types-of-urinary-incontinence"
+    },
+    {
+      "name": "Urinary Tract Infections",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-urinary-tract-infections-basics"
+    },
+    {
+      "name": "Uveitis",
+      "url": "https://www.webmd.com/eye-health/uveitis-inflammation-eye"
+    },
+    {
+      "name": "Vaccinations",
+      "url": "https://www.webmd.com/children/vaccines/immunizations-vaccines-power-of-preparation"
+    },
+    {
+      "name": "Vaginal Birth After Cesarean (VBAC)",
+      "url": "https://www.webmd.com/baby/vaginal-birth-after-c-section"
+    },
+    {
+      "name": "Vaginal Cancer",
+      "url": "https://www.webmd.com/cancer/what-is-vaginal-cancer"
+    },
+    {
+      "name": "Vaginal Discharge",
+      "url": "https://www.webmd.com/women/guide/sexual-health-vaginal-infections"
+    },
+    {
+      "name": "Vaginal Yeast Infections",
+      "url": "https://www.webmd.com/women/guide/understanding-vaginal-yeast-infection-basics"
+    },
+    {
+      "name": "Valerian",
+      "url": "https://www.webmd.com/a-to-z-guides/supplement-guide-valerian"
+    },
+    {
+      "name": "Vancomycin-Resistant Enterococci (VRE)",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/what-is-vre"
+    },
+    {
+      "name": "Varicella Embryopathy",
+      "url": "https://www.webmd.com/children/vaccines/chickenpox-varicella-vaccine-guidelines-for-adults"
+    },
+    {
+      "name": "Varicose Veins",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/understanding-varicose-veins-basics"
+    },
+    {
+      "name": "Vascular Access Device",
+      "url": "https://www.webmd.com/heart-disease/what-are-central-venous-catheter"
+    },
+    {
+      "name": "Vascular Malformations of the Brain",
+      "url": "https://www.webmd.com/brain/brain-lesions-causes-symptoms-treatments"
+    },
+    {
+      "name": "Vasculitis",
+      "url": "https://www.webmd.com/rheumatoid-arthritis/guide/vasculitis-treatment"
+    },
+    {
+      "name": "Venous Skin Ulcer",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/venous-skin-ulcer"
+    },
+    {
+      "name": "Ventricular Tachycardia",
+      "url": "https://www.webmd.com/heart-disease/atrial-fibrillation/what-is-ventricular-tachycardia"
+    },
+    {
+      "name": "Verruca",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/eczema/seborrheic-dermatitis-medref"
+    },
+    {
+      "name": "Vertigo",
+      "url": "https://www.webmd.com/brain/dizziness-vertigo"
+    },
+    {
+      "name": "Video Game Addiction",
+      "url": "https://www.webmd.com/mental-health/addiction/video-game-addiction"
+    },
+    {
+      "name": "Virtual Colonoscopy",
+      "url": "https://www.webmd.com/colorectal-cancer/virtual-colonoscopy"
+    },
+    {
+      "name": "Vitamin B12 Deficiency Anemia",
+      "url": "https://www.webmd.com/a-to-z-guides/vitamin-b12-deficiency-anemia"
+    },
+    {
+      "name": "Vitamin-D Deficiency Rickets",
+      "url": "https://www.webmd.com/diet/guide/vitamin-d-deficiency"
+    },
+    {
+      "name": "Vitiligo",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/guide/vitiligo-common-cause-loss-skin-pigment"
+    },
+    {
+      "name": "Von Willebrand's Disease",
+      "url": "https://www.webmd.com/a-to-z-guides/von-willebrand-disease-vwd"
+    },
+    {
+      "name": "Vulvar Cancer",
+      "url": "https://www.webmd.com/cancer/what-is-vulvar-cancer"
+    },
+    {
+      "name": "Warts and Plantar Warts",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/warts"
+    },
+    {
+      "name": "Warts, Genital (Human Papillomavirus)",
+      "url": "https://www.webmd.com/sexual-conditions/hpv-genital-warts/genital-wart-symptoms-diagnosis"
+    },
+    {
+      "name": "Water on the Brain (Hydrocephalus)",
+      "url": "https://www.webmd.com/brain/normal-pressure-hydrocephalus"
+    },
+    {
+      "name": "Weaning",
+      "url": "https://www.webmd.com/parenting/baby/after-nursing"
+    },
+    {
+      "name": "Weight Management",
+      "url": "https://www.webmd.com/obesity/losing-weight-long-term"
+    },
+    {
+      "name": "Wells' Syndrome",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/cellulitis"
+    },
+    {
+      "name": "West Nile Encephalitis",
+      "url": "https://www.webmd.com/a-to-z-guides/west-nile-virus-faq"
+    },
+    {
+      "name": "West Syndrome",
+      "url": "https://www.webmd.com/children/what-is-west-syndrome"
+    },
+    {
+      "name": "Wet AMD",
+      "url": "https://www.webmd.com/eye-health/macular-degeneration/wet-amd-what-is"
+    },
+    {
+      "name": "WHCR",
+      "url": "https://www.webmd.com/children/wolf-hirschorn-syndrome"
+    },
+    {
+      "name": "Wheezing",
+      "url": "https://www.webmd.com/asthma/understanding-wheezing-basics"
+    },
+    {
+      "name": "Whiplash",
+      "url": "https://www.webmd.com/pain-management/pain-management-whiplash"
+    },
+    {
+      "name": "Whipple’s Disease",
+      "url": "https://www.webmd.com/digestive-disorders/what-is-whipples-disease"
+    },
+    {
+      "name": "Whooping Cough (Pertussis)",
+      "url": "https://www.webmd.com/children/whooping-cough-symptoms-treatment"
+    },
+    {
+      "name": "Wilms' Tumor",
+      "url": "https://www.webmd.com/cancer/what-is-wilms-tumor"
+    },
+    {
+      "name": "Winter Blues or Depression",
+      "url": "https://www.webmd.com/depression/seasonal-affective-disorder"
+    },
+    {
+      "name": "Wisdom Tooth Problems",
+      "url": "https://www.webmd.com/oral-health/wisdom-teeth"
+    },
+    {
+      "name": "Wise Health Decisions",
+      "url": "https://www.webmd.com/palliative-care/advance-directives-medical-power-attorney"
+    },
+    {
+      "name": "Wolff Parkinson White Syndrome",
+      "url": "https://www.webmd.com/heart-disease/what-is-wolff-parkinson-white-syndrome"
+    },
+    {
+      "name": "Women and Coronary Artery Disease",
+      "url": "https://www.webmd.com/women/features/women-heart-disease"
+    },
+    {
+      "name": "Women's Health",
+      "url": "https://www.webmd.com/women/default.htm"
+    },
+    {
+      "name": "Wrapping a Sprained Ankle",
+      "url": "https://www.webmd.com/a-to-z-guides/ankle-sprain-treatment"
+    },
+    {
+      "name": "Xeroderma Pigmentosum",
+      "url": "https://dictionary.webmd.com/xeroderma-pigmentosum"
+    },
+    {
+      "name": "Yoga",
+      "url": "https://www.webmd.com/balance/guide/the-health-benefits-of-yoga"
+    },
+    {
+      "name": "Zika",
+      "url": "https://www.webmd.com/a-to-z-guides/zika-virus-symptoms-prevention"
+    }
+  ],
+  "drugs": [
+    {
+      "name": "Actos",
+      "url": "https://www.webmd.com/drugs/2/drug-17406/pioglitazone-oral/details"
+    },
+    {
+      "name": "Acyclovir",
+      "url": "https://www.webmd.com/drugs/2/drug-941/acyclovir-oral/details"
+    },
+    {
+      "name": "Adderall",
+      "url": "https://www.webmd.com/drugs/2/drug-63163/adderall-oral/details"
+    },
+    {
+      "name": "Alavert",
+      "url": "https://www.webmd.com/drugs/otc-brands/alavert-allergy-products"
+    },
+    {
+      "name": "Alka-Seltzer",
+      "url": "https://www.webmd.com/drugs/otc-brands/alka-seltzer-heartburn-upset-stomach-products"
+    },
+    {
+      "name": "Allopurinol",
+      "url": "https://www.webmd.com/drugs/2/drug-8610/allopurinol-oral/details"
+    },
+    {
+      "name": "Alprazolam",
+      "url": "https://www.webmd.com/drugs/2/drug-9824/xanax-oral/details"
+    },
+    {
+      "name": "Amitriptyline",
+      "url": "https://www.webmd.com/drugs/2/drug-8611/amitriptyline-oral/details"
+    },
+    {
+      "name": "Amoxicillin",
+      "url": "https://www.webmd.com/drugs/2/drug-1531-3295/amoxicillin-oral/amoxicillin-oral/details"
+    },
+    {
+      "name": "Aripiprazole",
+      "url": "https://www.webmd.com/drugs/2/drug-64439/abilify-oral/details"
+    },
+    {
+      "name": "Atenolol",
+      "url": "https://www.webmd.com/drugs/2/drug-11035/atenolol-oral/details"
+    },
+    {
+      "name": "Ativan",
+      "url": "https://www.webmd.com/drugs/2/drug-6685-5244/ativan/details"
+    },
+    {
+      "name": "Azithromycin",
+      "url": "https://www.webmd.com/drugs/2/drug-1527-2223/azithromycin-oral/azithromycin-600-mg-oral/details"
+    },
+    {
+      "name": "Azo",
+      "url": "https://www.webmd.com/drugs/otc-brands/azo-urinary-tract-infection-products"
+    },
+    {
+      "name": "Baclofen",
+      "url": "https://www.webmd.com/drugs/2/drug-8615/baclofen-oral/details"
+    },
+    {
+      "name": "Benadryl",
+      "url": "https://www.webmd.com/drugs/2/drug-5680/benadryl-oral/details"
+    },
+    {
+      "name": "Benzonatate",
+      "url": "https://www.webmd.com/drugs/2/drug-14257/benzonatate-oral/details"
+    },
+    {
+      "name": "Bupropion",
+      "url": "https://www.webmd.com/drugs/2/drug-13509/wellbutrin-oral/details"
+    },
+    {
+      "name": "Buspirone",
+      "url": "https://www.webmd.com/drugs/2/drug-8876/buspirone-oral/details"
+    },
+    {
+      "name": "Bystolic",
+      "url": "https://www.webmd.com/drugs/2/drug-149866/nebivolol-oral/details"
+    },
+    {
+      "name": "Celecoxib",
+      "url": "https://www.webmd.com/drugs/2/drug-16849/celebrex-oral/details"
+    },
+    {
+      "name": "Celexa",
+      "url": "https://www.webmd.com/drugs/2/drug-1701/citalopram-oral/details"
+    },
+    {
+      "name": "Cialis",
+      "url": "https://www.webmd.com/drugs/2/drug-77875/tadalafil-oral/details"
+    },
+    {
+      "name": "Cipro",
+      "url": "https://www.webmd.com/drugs/2/drug-7748/ciprofloxacin-oral/details"
+    },
+    {
+      "name": "Clindamycin",
+      "url": "https://www.webmd.com/drugs/2/drug-12235/clindamycin-hcl-oral/details"
+    },
+    {
+      "name": "Clonazepam",
+      "url": "https://www.webmd.com/drugs/2/drug-14403-6006/clonazepam/details"
+    },
+    {
+      "name": "Concerta",
+      "url": "https://www.webmd.com/drugs/2/drug-19857/concerta-oral/details"
+    },
+    {
+      "name": "Crestor",
+      "url": "https://www.webmd.com/drugs/2/drug-76701/rosuvastatin-oral/details"
+    },
+    {
+      "name": "Cyclobenzaprine",
+      "url": "https://www.webmd.com/drugs/2/drug-8888-8087/cyclobenzaprine-oral/cyclobenzaprine-oral/details"
+    },
+    {
+      "name": "Dabigatran",
+      "url": "https://www.webmd.com/drugs/2/drug-154839-1122/pradaxa-oral/dabigatran-oral/details"
+    },
+    {
+      "name": "Delsym",
+      "url": "https://www.webmd.com/drugs/otc-brands/delsym-cough-cold-flu-products"
+    },
+    {
+      "name": "Dexilant",
+      "url": "https://www.webmd.com/drugs/2/drug-151809/dexlansoprazole-oral/details"
+    },
+    {
+      "name": "Diazepam",
+      "url": "https://www.webmd.com/drugs/2/drug-11116/valium-oral/details"
+    },
+    {
+      "name": "Dicyclomine",
+      "url": "https://www.webmd.com/drugs/2/drug-5247/dicyclomine-oral/details"
+    },
+    {
+      "name": "Dimetapp",
+      "url": "https://www.webmd.com/drugs/otc-brands/dimetapp-cough-cold-flu-products"
+    },
+    {
+      "name": "Divalproex",
+      "url": "https://www.webmd.com/drugs/2/drug-1788/depakote-oral/details"
+    },
+    {
+      "name": "Duloxetine",
+      "url": "https://www.webmd.com/drugs/2/drug-91491/cymbalta-oral/details"
+    },
+    {
+      "name": "Effexor",
+      "url": "https://www.webmd.com/drugs/2/drug-1836/effexor-oral/details"
+    },
+    {
+      "name": "Emgality",
+      "url": "https://www.webmd.com/drugs/2/drug-176179/emgality-pen-subcutaneous/details"
+    },
+    {
+      "name": "Escitalopram",
+      "url": "https://www.webmd.com/drugs/2/drug-63990/lexapro-oral/details"
+    },
+    {
+      "name": "Flagyl",
+      "url": "https://www.webmd.com/drugs/2/drug-6426/metronidazole-oral/details"
+    },
+    {
+      "name": "Fluoxetine",
+      "url": "https://www.webmd.com/drugs/2/drug-6997/prozac-oral/details"
+    },
+    {
+      "name": "Gabapentin",
+      "url": "https://www.webmd.com/drugs/2/drug-14208-8217/gabapentin-oral/gabapentin-oral/details"
+    },
+    {
+      "name": "Hydrochlorothi­azide",
+      "url": "https://www.webmd.com/drugs/2/drug-5310/hydrochlorothiazide-oral/details"
+    },
+    {
+      "name": "Hydrocodone/ac­etaminophen",
+      "url": "https://www.webmd.com/drugs/2/drug-251/hydrocodone-acetaminophen-oral/details"
+    },
+    {
+      "name": "Hydromorphone",
+      "url": "https://www.webmd.com/drugs/2/drug-9130/dilaudid-oral/details"
+    },
+    {
+      "name": "Hydroxyzine",
+      "url": "https://www.webmd.com/drugs/2/drug-7681/hydroxyzine-hcl-oral/details"
+    },
+    {
+      "name": "Ibuprofen",
+      "url": "https://www.webmd.com/drugs/2/drug-5166-9368/ibuprofen-oral/ibuprofen-oral/details"
+    },
+    {
+      "name": "Imodium",
+      "url": "https://www.webmd.com/drugs/otc-brands/imodium-diarrhea-products"
+    },
+    {
+      "name": "Levetiracetam",
+      "url": "https://www.webmd.com/drugs/2/drug-18053/keppra-oral/details"
+    },
+    {
+      "name": "Levothyroxine",
+      "url": "https://www.webmd.com/drugs/2/drug-1433-2020/levothyroxine-oral/levothyroxine-solution-oral/details"
+    },
+    {
+      "name": "Lipitor",
+      "url": "https://www.webmd.com/drugs/2/drug-841-2493/atorvastatin-oral/atorvastatin-suspension-oral/details"
+    },
+    {
+      "name": "Lisdexamfetami­ne",
+      "url": "https://www.webmd.com/drugs/2/drug-148324/vyvanse-oral/details"
+    },
+    {
+      "name": "Lisinopril",
+      "url": "https://www.webmd.com/drugs/2/drug-6873-9371/lisinopril-oral/lisinopril-oral/details"
+    },
+    {
+      "name": "Lorazepam",
+      "url": "https://www.webmd.com/drugs/2/drug-8892-5244/lorazepam-oral/lorazepam-oral/details"
+    },
+    {
+      "name": "Losartan",
+      "url": "https://www.webmd.com/drugs/2/drug-6616/losartan-oral/details"
+    },
+    {
+      "name": "Macrobid",
+      "url": "https://www.webmd.com/drugs/2/drug-91381/nitrofurantoin-monohydrate-macrocrystals-oral/details"
+    },
+    {
+      "name": "Meloxicam",
+      "url": "https://www.webmd.com/drugs/2/drug-911/meloxicam-oral/details"
+    },
+    {
+      "name": "Methadone",
+      "url": "https://www.webmd.com/drugs/2/drug-2671-1278/methadone-oral/methadone-concentrate-oral/details"
+    },
+    {
+      "name": "Methocarbamol",
+      "url": "https://www.webmd.com/drugs/2/drug-8677/methocarbamol-oral/details"
+    },
+    {
+      "name": "Methylpredniso­lone",
+      "url": "https://www.webmd.com/drugs/2/drug-6470/methylprednisolone-oral/details"
+    },
+    {
+      "name": "Milnacipran",
+      "url": "https://www.webmd.com/drugs/2/drug-152224/savella-oral/details"
+    },
+    {
+      "name": "Morphine",
+      "url": "https://www.webmd.com/drugs/2/drug-327-819/morphine-oral/morphine-oral/details"
+    },
+    {
+      "name": "Nabumetone",
+      "url": "https://www.webmd.com/drugs/2/drug-7004/relafen-oral/details"
+    },
+    {
+      "name": "Nortriptyline",
+      "url": "https://www.webmd.com/drugs/2/drug-10710/nortriptyline-oral/details"
+    },
+    {
+      "name": "Ondansetron",
+      "url": "https://www.webmd.com/drugs/2/drug-30/zofran-oral/details"
+    },
+    {
+      "name": "Oxycodone/acet­aminophen",
+      "url": "https://www.webmd.com/drugs/2/drug-7277/percocet-oral/details"
+    },
+    {
+      "name": "Oxycontin",
+      "url": "https://www.webmd.com/drugs/2/drug-1025-5278/oxycodone-oral/oxycodone-oral/details"
+    },
+    {
+      "name": "Pantoprazole",
+      "url": "https://www.webmd.com/drugs/2/drug-17633/pantoprazole-oral/details"
+    },
+    {
+      "name": "Phentermine",
+      "url": "https://www.webmd.com/drugs/2/drug-4151/phentermine-oral/details"
+    },
+    {
+      "name": "Plaquenil",
+      "url": "https://www.webmd.com/drugs/2/drug-5482/hydroxychloroquine-oral/details"
+    },
+    {
+      "name": "Plavix",
+      "url": "https://www.webmd.com/drugs/2/drug-5190/clopidogrel-oral/details"
+    },
+    {
+      "name": "Pravastatin",
+      "url": "https://www.webmd.com/drugs/2/drug-6989/pravastatin-oral/details"
+    },
+    {
+      "name": "Prednisone",
+      "url": "https://www.webmd.com/drugs/2/drug-6007-9383/prednisone-oral/prednisone-oral/details"
+    },
+    {
+      "name": "Pregabalin",
+      "url": "https://www.webmd.com/drugs/2/drug-93965/lyrica-oral/details"
+    },
+    {
+      "name": "Prilosec",
+      "url": "https://www.webmd.com/drugs/2/drug-3766-2250/omeprazole-oral/omeprazole-delayed-release-tablet-oral/details"
+    },
+    {
+      "name": "Promethazine",
+      "url": "https://www.webmd.com/drugs/2/drug-8895/promethazine-oral/details"
+    },
+    {
+      "name": "Quetiapine",
+      "url": "https://www.webmd.com/drugs/2/drug-4718/seroquel-oral/details"
+    },
+    {
+      "name": "Risperdal",
+      "url": "https://www.webmd.com/drugs/2/drug-6283-2034/risperidone-oral/risperidone-oral/details"
+    },
+    {
+      "name": "Robitussin",
+      "url": "https://www.webmd.com/drugs/otc-brands/robitussin-cough-cold-flu-products"
+    },
+    {
+      "name": "Simvastatin",
+      "url": "https://www.webmd.com/drugs/2/drug-6105/simvastatin-oral/details"
+    },
+    {
+      "name": "Sudafed",
+      "url": "https://www.webmd.com/drugs/otc-brands/sudafed-cough-cold-flu-products"
+    },
+    {
+      "name": "Sulfamethoxazole/trimethoprim",
+      "url": "https://www.webmd.com/drugs/2/drug-5530/bactrim-ds-oral/details"
+    },
+    {
+      "name": "Toprol",
+      "url": "https://www.webmd.com/drugs/2/drug-8814-2372/metoprolol-succinate-oral/metoprolol-succinate-extended-release-capsule-oral/details"
+    },
+    {
+      "name": "Tramadol",
+      "url": "https://www.webmd.com/drugs/2/drug-4398-5239/tramadol-oral/tramadol-oral/details"
+    },
+    {
+      "name": "Trazodone",
+      "url": "https://www.webmd.com/drugs/2/drug-11188/trazodone-oral/details"
+    },
+    {
+      "name": "Trulicity",
+      "url": "https://www.webmd.com/drugs/2/drug-167025/trulicity-subcutaneous/details"
+    },
+    {
+      "name": "Valtrex",
+      "url": "https://www.webmd.com/drugs/2/drug-6279/valacyclovir-oral/details"
+    },
+    {
+      "name": "Victoza",
+      "url": "https://www.webmd.com/drugs/2/drug-153566/liraglutide-subcutaneous/details"
+    },
+    {
+      "name": "Zolpidem",
+      "url": "https://www.webmd.com/drugs/2/drug-9690/ambien-oral/details"
+    }
+  ],
+  "metadata": {
+    "total_conditions": 1059,
+    "total_drugs": 90,
+    "total": 1149
+  }
+}

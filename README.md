@@ -17,41 +17,19 @@ A polite, resumable web crawler for extracting disease and condition information
 
 - Python 3.7+
 - pip package manager
-- Pre-extracted WebMD links (webmd_links.json)
 
-### Step 1: Extract Links
+**Note**: The repository includes `webmd_links.json` with 1149 pre-extracted links (1059 conditions + 90 drugs), so you can start crawling immediately without running the extraction script.
 
-First, extract all WebMD URLs from the pre-scraped HTML files:
+### Install Dependencies
 
 ```bash
-cd /path/to/project/other
-python3 extract_links.py
+pip install -r requirements.txt
 ```
 
-This will generate `webmd_links.json` containing:
-- **1059 condition/disease links** from A-Z
-- **90 drug links**
-- **Total: 1149 links**
-
-### Step 2: Install Dependencies
+Or manually:
 
 ```bash
 pip install beautifulsoup4 lxml pyyaml requests
-```
-
-Or using a requirements file:
-
-```bash
-# Create requirements.txt
-cat > requirements.txt << EOF
-beautifulsoup4>=4.12.0
-lxml>=4.9.0
-PyYAML>=6.0
-requests>=2.31.0
-EOF
-
-# Install
-pip install -r requirements.txt
 ```
 
 ## Project Structure
@@ -61,6 +39,8 @@ WebMD_WebCrawler/
 ├── main.py              # Core WebMDCrawler class
 ├── crawler_engine.py    # Polite crawling engine with batch processing
 ├── run_crawler.py       # CLI interface
+├── webmd_links.json     # Pre-extracted links (1059 conditions + 90 drugs)
+├── requirements.txt     # Python dependencies
 ├── .gitignore          # Excludes crawled data and cache
 └── README.md           # This file
 ```

@@ -53,7 +53,7 @@ class PoliteCrawlerEngine:
         Load disease/condition and drug links from pre-extracted JSON file
         
         Args:
-            links_json_path: Path to webmd_links.json (default: ../webmd_links.json)
+            links_json_path: Path to webmd_links.json (default: ./webmd_links.json or ../webmd_links.json)
             include_drugs: If True, include drug links as well (default: False)
         
         Returns:
@@ -61,15 +61,19 @@ class PoliteCrawlerEngine:
         """
         print("Loading WebMD links from pre-extracted JSON file...")
         
-        # Default to webmd_links.json in parent directory
+        # Default to webmd_links.json - try current directory first, then parent
         if links_json_path is None:
             script_dir = os.path.dirname(os.path.abspath(__file__))
-            links_json_path = os.path.join(os.path.dirname(script_dir), 'webmd_links.json')
+            # Try current directory first
+            links_json_path = os.path.join(script_dir, 'webmd_links.json')
+            if not os.path.exists(links_json_path):
+                # Fall back to parent directory
+                links_json_path = os.path.join(os.path.dirname(script_dir), 'webmd_links.json')
         
         # Check if file exists
         if not os.path.exists(links_json_path):
             print(f"Error: Links file not found at {links_json_path}")
-            print("Please run extract_links.py first to generate the links file.")
+            print("Please ensure webmd_links.json is in the crawler directory or run extract_links.py to generate it.")
             return []
         
         # Load JSON
